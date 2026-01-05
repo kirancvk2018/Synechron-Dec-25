@@ -1,0 +1,1101 @@
+customer_id,age,gender,income,account_balance,credit_score,loan_amount,loan_duration,interest_rate,employment_status,education_level,marital_status,num_of_dependents,housing_status,years_with_bank,num_of_products,has_credit_card,has_personal_loan,has_mortgage,num_of_transactions,satisfaction_score
+1,56,Female,102879,77816,764,10795,11,5.39,Self-Employed,High School,Widowed,1,Mortgage,48,7,1,1,1,249,9.85
+2,69,Female,58827,84588,381,35210,17,14.61,Unemployed,PhD,Single,2,Rent,19,9,1,0,1,40,3.62
+3,46,Male,127188,17531,664,25185,7,11.55,Employed,PhD,Single,4,Mortgage,42,2,1,1,0,126,8.15
+4,32,Female,25655,89340,462,49843,14,11.09,Self-Employed,High School,Married,2,Own,3,7,1,0,1,204,5.41
+5,60,Male,64859,95439,347,25979,26,13.09,Unemployed,PhD,Widowed,4,Own,27,1,0,1,0,99,1.36
+6,25,Male,73625,45857,810,46672,11,3.51,Employed,Bachelor,Single,4,Own,3,2,1,0,0,187,7.87
+7,38,Female,72098,11142,628,34129,28,11.18,Self-Employed,Bachelor,Married,1,Own,28,6,1,1,1,154,2.52
+8,56,Male,35251,49355,415,42543,22,8.55,Unemployed,Bachelor,Widowed,1,Own,17,5,1,0,0,211,6.68
+9,36,Male,142413,10866,636,17533,9,12.78,Self-Employed,PhD,Married,3,Own,31,8,0,1,1,212,1.77
+10,40,Male,20526,71067,446,37402,23,8.61,Unemployed,Bachelor,Divorced,0,Rent,10,2,0,1,0,33,9.52
+11,28,Male,88760,65027,622,45071,13,10.06,Unemployed,Bachelor,Widowed,3,Own,49,1,0,0,0,114,3.63
+12,28,Female,67837,58906,742,15908,23,8.21,Self-Employed,High School,Single,3,Mortgage,22,7,1,1,0,284,3.04
+13,41,Female,145133,29138,312,17920,18,8.22,Self-Employed,High School,Single,2,Own,30,6,0,1,0,69,2.16
+14,53,Female,149478,93601,793,16851,28,11.98,Unemployed,Master,Divorced,4,Rent,49,8,0,1,1,24,9.51
+15,57,Female,31536,30956,586,4631,11,10.17,Employed,Master,Widowed,4,Own,21,8,0,1,0,94,7.41
+16,41,Male,48541,77295,413,45325,15,10.23,Self-Employed,Master,Married,4,Mortgage,36,2,1,1,1,206,7.67
+17,20,Male,99083,6439,779,11849,25,7.85,Unemployed,Master,Single,0,Mortgage,23,8,0,1,0,244,5.49
+18,39,Female,71027,48241,321,44754,26,8.9,Unemployed,High School,Divorced,2,Rent,38,6,0,1,1,272,5.27
+19,19,Female,54531,43533,648,38725,25,11.69,Employed,High School,Divorced,2,Rent,12,9,0,1,1,15,1.99
+20,41,Female,28712,29270,619,39347,22,12.74,Employed,High School,Widowed,4,Rent,25,7,1,0,0,298,6.04
+21,61,Male,124101,79815,425,12953,29,11.06,Employed,Bachelor,Widowed,3,Rent,20,2,1,1,0,67,3.22
+22,47,Female,85455,40279,576,19314,19,14.01,Self-Employed,Bachelor,Single,0,Own,49,8,0,0,1,154,9.79
+23,55,Female,94744,24888,503,18763,1,12.66,Unemployed,Master,Divorced,3,Own,49,9,0,1,0,51,8.17
+24,19,Female,141787,18630,493,12658,4,9.3,Unemployed,Bachelor,Married,1,Mortgage,42,7,0,0,0,209,4.72
+25,38,Male,149749,62063,846,16235,14,10.73,Unemployed,PhD,Divorced,2,Rent,7,4,1,1,0,183,2.36
+26,50,Male,25109,36144,585,16330,14,14.04,Employed,High School,Married,2,Rent,29,9,1,0,0,104,8.07
+27,29,Male,141332,53161,356,48393,3,10.05,Unemployed,Master,Married,3,Own,48,4,0,0,0,226,2.1
+28,39,Male,69268,97718,602,45173,28,12.72,Self-Employed,Master,Single,0,Rent,29,4,1,1,0,120,2.7
+29,61,Male,120737,92074,462,24426,17,10.95,Employed,PhD,Divorced,2,Mortgage,13,9,0,0,0,189,2.9
+30,42,Male,74615,78360,318,45566,3,9.18,Employed,Bachelor,Married,3,Mortgage,3,8,1,1,0,172,6.01
+31,66,Male,102503,51979,669,35279,16,5.14,Employed,Master,Widowed,0,Rent,2,4,0,1,0,128,8.08
+32,44,Male,143274,98661,563,3873,14,7.54,Employed,Bachelor,Married,3,Mortgage,16,8,1,0,1,237,3.83
+33,59,Female,49759,7979,412,10835,20,14.58,Self-Employed,Bachelor,Widowed,0,Mortgage,30,8,0,1,0,154,1.76
+34,45,Female,105708,27189,787,24241,29,10.55,Unemployed,PhD,Widowed,4,Own,38,7,1,0,0,151,5.18
+35,33,Male,80112,43600,626,11192,13,9.34,Self-Employed,Master,Divorced,0,Mortgage,6,6,0,0,0,131,7.73
+36,32,Male,122471,60560,841,47795,15,14.13,Unemployed,Bachelor,Widowed,1,Rent,45,8,0,1,0,294,2.99
+37,64,Female,146740,79040,364,46041,14,9.62,Self-Employed,Bachelor,Married,4,Rent,7,7,0,1,0,235,2.98
+38,68,Male,143153,62558,591,34557,24,8.84,Employed,PhD,Widowed,3,Mortgage,5,5,0,1,1,266,9.53
+39,61,Male,46589,87205,324,1947,25,11.87,Employed,PhD,Divorced,4,Rent,7,4,1,1,1,294,9.59
+40,69,Male,50015,7910,848,20083,19,11.26,Self-Employed,Bachelor,Single,4,Own,34,2,0,1,0,174,9.91
+41,20,Female,49009,58713,300,23265,6,4.51,Self-Employed,PhD,Married,3,Mortgage,32,8,1,0,1,230,8.27
+42,54,Female,103309,47857,848,24406,10,8.13,Unemployed,Bachelor,Married,3,Mortgage,49,9,1,0,0,78,2.69
+43,68,Female,146446,35964,440,20067,27,8.14,Self-Employed,Master,Divorced,1,Mortgage,13,4,0,1,0,233,2.91
+44,24,Female,82046,86667,487,14639,15,6.92,Self-Employed,High School,Divorced,3,Rent,30,4,0,1,1,133,4.06
+45,38,Female,126661,26227,427,47025,21,8.72,Unemployed,PhD,Divorced,2,Rent,25,5,0,1,1,21,3.86
+46,26,Male,46143,6978,500,38730,22,7.37,Unemployed,High School,Divorced,2,Mortgage,21,2,0,0,1,61,9.61
+47,56,Female,26154,88527,426,20020,20,4.59,Unemployed,Bachelor,Married,1,Rent,21,7,1,0,1,138,8.1
+48,35,Male,41804,18153,556,20202,26,7.36,Self-Employed,Bachelor,Single,0,Rent,28,5,1,0,1,144,7.52
+49,21,Male,61688,60765,846,26066,6,2.94,Unemployed,Bachelor,Widowed,0,Mortgage,48,6,1,1,0,154,2.67
+50,42,Female,84288,40071,493,8157,23,9.49,Employed,High School,Widowed,2,Mortgage,20,4,1,1,0,136,9.19
+51,31,Female,71195,70519,403,38188,25,13.1,Employed,Bachelor,Single,3,Rent,34,8,0,0,0,235,8.45
+52,67,Male,40581,10503,834,30634,10,11.43,Employed,PhD,Single,1,Mortgage,5,8,1,1,1,80,2.47
+53,26,Male,72648,61703,564,10845,7,6.69,Self-Employed,Master,Single,0,Mortgage,18,5,0,1,0,282,8.84
+54,43,Male,50087,65379,683,41685,22,3.13,Employed,Master,Divorced,0,Mortgage,39,6,0,0,1,196,3.45
+55,19,Female,69930,96457,559,27913,17,4.63,Self-Employed,PhD,Married,4,Mortgage,43,3,1,0,0,12,1.73
+56,37,Female,52981,58866,713,5708,18,9.09,Self-Employed,Master,Married,2,Rent,11,1,1,1,1,294,6.91
+57,45,Female,89298,17905,657,33955,17,4.69,Employed,High School,Married,3,Mortgage,17,9,1,0,1,31,6.88
+58,64,Female,66167,46838,374,28518,9,9.07,Unemployed,Bachelor,Divorced,1,Own,48,9,1,1,0,175,1.85
+59,24,Female,95304,59279,654,46491,10,5.01,Self-Employed,Bachelor,Married,0,Mortgage,45,3,1,0,0,255,3.87
+60,61,Male,63408,90489,487,8580,10,13.04,Employed,Bachelor,Divorced,4,Own,22,4,1,0,0,243,9.94
+61,25,Female,59499,27806,589,22402,25,7.16,Self-Employed,High School,Married,2,Mortgage,37,7,0,1,0,167,7.11
+62,64,Male,145816,46000,344,9986,7,5.19,Unemployed,High School,Single,2,Own,20,2,0,1,1,160,7.57
+63,52,Male,72269,23168,382,39362,16,12.56,Unemployed,High School,Widowed,1,Own,48,3,0,0,0,222,2.92
+64,31,Male,58559,71119,422,21658,29,6.46,Employed,PhD,Widowed,0,Mortgage,48,6,1,1,1,227,1.71
+65,34,Female,134126,39714,657,40960,18,3.45,Self-Employed,High School,Divorced,1,Mortgage,48,8,0,0,0,255,3.49
+66,53,Female,94319,55093,827,44356,6,9.42,Self-Employed,Master,Married,1,Mortgage,46,1,0,1,0,285,3.24
+67,67,Female,131925,56419,365,36371,27,9.56,Self-Employed,PhD,Widowed,4,Own,6,4,0,0,0,160,3.11
+68,57,Male,115317,50145,674,35708,20,11.29,Self-Employed,PhD,Single,2,Rent,34,1,0,0,0,205,2.73
+69,21,Male,116347,78425,461,21019,1,5.12,Employed,PhD,Single,3,Rent,14,2,0,0,0,30,6.17
+70,19,Male,68787,93949,679,31879,1,7.77,Unemployed,High School,Single,2,Mortgage,48,8,0,1,1,266,3.95
+71,23,Male,55488,78811,657,28878,12,5.67,Employed,PhD,Divorced,2,Rent,23,6,1,0,0,26,8.38
+72,59,Male,94441,3461,487,40392,21,3.05,Self-Employed,High School,Divorced,4,Rent,20,9,1,0,1,60,2.66
+73,21,Male,94663,15291,621,14531,28,13.4,Self-Employed,High School,Married,3,Mortgage,13,2,1,0,0,279,5.18
+74,46,Female,42431,47804,749,15036,2,11.48,Unemployed,PhD,Single,0,Own,47,3,0,0,1,92,1.12
+75,35,Female,81681,77971,773,946,4,5.92,Self-Employed,Bachelor,Married,3,Mortgage,44,9,1,1,0,133,5.34
+76,43,Female,83483,94471,312,37183,17,9.79,Employed,Bachelor,Married,0,Rent,41,9,1,1,0,299,1.5
+77,61,Female,142720,65946,483,49055,4,4.62,Employed,PhD,Single,3,Own,32,6,0,0,0,271,9.8
+78,51,Male,69153,99989,410,18118,11,13.57,Unemployed,Bachelor,Married,1,Rent,26,3,1,0,1,58,8.12
+79,27,Male,26368,85080,807,7087,22,3.49,Employed,Master,Widowed,3,Own,14,5,0,1,1,15,5.41
+80,53,Female,47424,62332,589,31980,26,2.05,Employed,Master,Divorced,4,Rent,36,2,1,0,0,126,1.78
+81,31,Male,132360,78794,594,33494,4,8.53,Employed,High School,Married,0,Mortgage,8,7,0,1,0,127,6.33
+82,48,Female,65004,31841,750,21027,1,9.58,Employed,Bachelor,Single,2,Rent,40,8,0,0,0,272,7.83
+83,65,Female,103869,49758,514,24069,7,9.53,Self-Employed,Master,Divorced,4,Rent,22,6,1,1,1,138,2.72
+84,32,Female,108652,77272,326,11651,18,2.71,Employed,PhD,Divorced,0,Own,22,8,0,0,0,180,6.11
+85,25,Male,132755,38643,530,6058,9,6.08,Unemployed,Bachelor,Married,0,Rent,16,2,1,1,1,36,8.33
+86,31,Female,76985,51408,620,45239,29,8.49,Unemployed,Master,Widowed,2,Mortgage,27,3,0,1,0,208,7.91
+87,40,Female,70069,44950,532,33454,3,4.82,Employed,Master,Married,1,Mortgage,10,7,1,1,1,106,8.23
+88,57,Female,72326,57849,736,47948,8,13.34,Unemployed,PhD,Widowed,4,Mortgage,25,1,1,0,1,26,8.91
+89,38,Male,128737,29044,832,47827,29,3.13,Employed,High School,Divorced,2,Own,31,7,0,1,1,182,9.44
+90,33,Male,101061,16997,702,44337,24,8.34,Unemployed,PhD,Married,2,Own,21,6,1,1,0,110,4.65
+91,62,Female,43398,80751,352,35803,19,10.99,Unemployed,High School,Single,1,Rent,27,8,1,0,1,195,6.12
+92,35,Male,118393,99605,612,35200,4,5.4,Employed,Master,Married,4,Rent,17,7,1,0,0,193,8.12
+93,64,Male,70861,24911,580,28000,18,10.12,Employed,High School,Widowed,2,Rent,33,4,0,0,1,224,7.27
+94,41,Male,95897,56533,330,2532,20,12.78,Self-Employed,Master,Widowed,1,Own,31,3,0,0,0,260,9.96
+95,43,Male,101905,83566,636,1752,27,4.47,Employed,Master,Married,4,Own,42,3,1,1,1,225,1.12
+96,42,Male,147118,95870,482,6009,11,13.92,Employed,Bachelor,Widowed,3,Rent,26,4,1,0,1,38,4.2
+97,62,Male,88577,15571,322,38342,27,9.2,Self-Employed,High School,Divorced,0,Own,21,9,0,0,0,111,3.53
+98,58,Male,85641,95463,843,14400,14,5.89,Employed,High School,Married,1,Own,36,9,0,0,0,132,3.36
+99,46,Male,29078,58941,745,15023,25,7.6,Employed,High School,Widowed,0,Mortgage,1,2,1,0,1,63,3
+100,32,Male,45003,59005,373,2381,18,6.06,Self-Employed,PhD,Married,3,Mortgage,4,5,0,0,1,292,7.38
+101,62,Male,82768,87250,309,33537,28,11.43,Employed,Bachelor,Married,2,Rent,4,1,0,0,0,111,1.76
+102,18,Female,71047,59712,783,2130,28,12.35,Employed,Bachelor,Single,2,Rent,26,4,1,0,1,126,7.67
+103,42,Female,91626,44541,755,21289,29,12.83,Self-Employed,Bachelor,Married,4,Mortgage,4,2,0,1,1,113,7.24
+104,24,Male,77660,24387,459,23023,16,14.81,Self-Employed,PhD,Single,1,Own,49,8,0,1,0,54,3.26
+105,26,Female,124386,94980,313,18458,3,12.29,Unemployed,High School,Widowed,1,Rent,9,4,0,1,0,123,3.28
+106,41,Female,69786,49908,477,46651,15,9.82,Employed,High School,Single,4,Rent,30,5,1,1,0,40,6.66
+107,18,Male,21925,86457,711,49420,27,6.41,Unemployed,High School,Single,0,Rent,45,4,0,1,1,173,7.86
+108,61,Male,103976,14057,352,44352,27,9.08,Unemployed,Bachelor,Single,2,Own,4,5,1,0,1,198,8.89
+109,25,Male,125221,65028,707,2195,4,2.53,Self-Employed,Bachelor,Divorced,2,Mortgage,5,5,0,0,1,204,8.67
+110,41,Female,137832,56731,321,15321,5,11.68,Employed,Master,Single,1,Rent,45,5,0,0,0,270,9.68
+111,28,Female,145150,25858,329,3762,17,7.8,Employed,PhD,Married,1,Mortgage,23,3,1,0,1,216,6.23
+112,68,Male,46015,49689,559,1945,7,2.26,Self-Employed,PhD,Single,4,Mortgage,16,7,1,1,0,61,9.18
+113,34,Male,53320,45638,504,16936,16,2.81,Unemployed,Bachelor,Married,3,Own,22,3,1,1,0,58,8.28
+114,25,Male,84881,92598,358,10449,14,7.04,Self-Employed,Master,Single,0,Own,37,2,1,0,1,15,9.05
+115,52,Female,110827,47486,770,24463,26,9.58,Employed,High School,Divorced,3,Own,8,3,0,0,0,233,1.1
+116,52,Female,140071,21567,765,30432,16,8.03,Self-Employed,Bachelor,Widowed,3,Own,48,3,1,1,1,32,9.69
+117,50,Female,122215,30739,311,7401,7,10.05,Employed,PhD,Single,1,Own,33,8,1,1,0,154,5.26
+118,22,Female,46289,58804,589,33987,9,8.24,Unemployed,PhD,Single,1,Own,38,4,1,1,0,119,8.18
+119,59,Male,148859,4754,653,9097,4,10.6,Employed,PhD,Divorced,1,Rent,43,3,0,0,0,221,2.14
+120,56,Male,23389,28044,374,7355,22,4.85,Unemployed,High School,Single,3,Mortgage,16,5,0,0,1,50,4.56
+121,58,Male,45683,68260,740,19178,11,3.47,Unemployed,PhD,Married,0,Own,5,4,1,1,0,181,3.44
+122,45,Male,33629,67912,540,8763,2,9.75,Employed,High School,Single,1,Rent,16,9,1,1,1,195,3.62
+123,24,Female,81550,9706,453,47788,12,8.3,Employed,High School,Single,2,Mortgage,7,8,1,0,0,223,2.11
+124,26,Female,44826,9894,395,26305,12,2.35,Unemployed,High School,Widowed,0,Own,1,7,1,0,0,61,8.25
+125,25,Male,120734,19037,593,26643,4,6.95,Self-Employed,Bachelor,Widowed,2,Own,9,8,0,0,0,79,1.08
+126,29,Male,46630,84986,508,12374,18,3.38,Employed,High School,Single,0,Rent,18,5,1,0,1,205,3.81
+127,51,Female,118762,82942,642,28029,26,8.91,Unemployed,Master,Divorced,1,Mortgage,45,4,0,1,1,160,2.57
+128,50,Male,66163,52612,387,21366,21,7.15,Unemployed,PhD,Widowed,4,Own,47,7,1,1,1,118,6.3
+129,65,Female,118511,30725,689,14579,7,9.97,Self-Employed,Bachelor,Single,1,Mortgage,3,1,1,1,1,127,3.29
+130,40,Male,86435,6926,624,7743,29,12.47,Employed,PhD,Widowed,3,Rent,24,6,0,0,1,104,3.33
+131,41,Male,31653,10496,456,30372,1,5.9,Unemployed,High School,Single,3,Own,28,8,1,0,0,265,5.4
+132,54,Male,47961,57447,436,9518,26,14.51,Self-Employed,Bachelor,Widowed,0,Mortgage,10,7,1,0,0,53,6.87
+133,52,Male,101941,30806,727,12600,26,8.96,Unemployed,Master,Widowed,3,Rent,9,2,1,1,1,76,2.09
+134,61,Male,94137,89199,751,49959,23,10.04,Employed,High School,Married,1,Rent,13,7,1,1,1,165,2.58
+135,57,Male,53662,42321,440,20300,26,10.85,Self-Employed,PhD,Single,2,Own,48,6,0,1,1,215,3.22
+136,39,Male,118818,66095,382,27410,13,10.67,Unemployed,Master,Single,1,Mortgage,35,5,1,0,1,283,9.76
+137,44,Female,76446,23656,476,29937,6,8.64,Self-Employed,High School,Single,0,Own,23,4,1,0,0,164,4.57
+138,52,Female,41288,56147,497,38088,6,7.57,Employed,Master,Single,3,Own,47,1,0,1,1,188,6.39
+139,18,Female,142555,92396,720,11501,12,2.7,Self-Employed,High School,Widowed,2,Mortgage,17,2,1,0,1,69,3.17
+140,52,Female,115081,50666,700,47175,8,2.29,Employed,Bachelor,Married,4,Mortgage,46,7,0,1,1,83,5.41
+141,54,Female,56877,83368,770,20442,24,6.65,Unemployed,High School,Married,2,Mortgage,7,3,1,1,1,58,1.67
+142,64,Male,131562,39787,517,21362,22,6.34,Employed,Bachelor,Divorced,2,Rent,16,5,1,1,0,280,1.31
+143,31,Male,35313,63946,474,12169,19,7.04,Unemployed,High School,Single,1,Rent,40,8,1,1,0,82,5.22
+144,20,Female,100885,22727,322,16416,5,3.8,Unemployed,High School,Divorced,4,Mortgage,36,8,0,0,1,205,4.59
+145,18,Male,92715,96081,534,11378,18,11.6,Employed,PhD,Widowed,0,Rent,20,6,0,0,0,188,2.23
+146,22,Female,30326,69056,312,3485,5,13.14,Unemployed,Master,Divorced,0,Own,24,5,1,0,0,57,7.19
+147,43,Female,130091,4081,400,32869,25,14.2,Self-Employed,Master,Single,2,Mortgage,47,2,0,0,1,81,9.94
+148,31,Male,145836,35196,835,8612,10,8.4,Unemployed,Master,Married,2,Own,5,9,1,0,1,122,4.56
+149,56,Male,21560,37735,822,41735,1,11.11,Employed,High School,Married,3,Mortgage,45,1,0,0,0,254,6.62
+150,44,Male,99148,81102,751,19431,10,13.12,Self-Employed,High School,Single,4,Own,6,2,1,1,0,168,9.67
+151,26,Female,103186,80578,730,27840,5,7.44,Self-Employed,High School,Widowed,2,Mortgage,28,1,0,0,0,283,8.48
+152,32,Male,46745,26498,832,836,12,6.02,Unemployed,Bachelor,Single,3,Own,5,4,1,0,0,277,5.17
+153,32,Female,51890,77865,592,43433,22,14.18,Unemployed,Bachelor,Widowed,4,Mortgage,49,4,0,0,0,39,7.64
+154,43,Female,40022,32656,400,19863,27,8.7,Employed,PhD,Married,0,Mortgage,39,5,0,1,1,106,2.15
+155,59,Female,143629,68695,801,46036,7,8.46,Self-Employed,High School,Widowed,3,Rent,38,5,0,0,0,260,5.61
+156,30,Male,72579,38900,603,4468,9,4.32,Employed,Master,Single,4,Own,2,8,0,1,0,16,3.51
+157,68,Male,90316,85899,839,34178,22,3.41,Unemployed,Master,Single,3,Rent,43,3,1,0,0,101,2.45
+158,49,Female,103847,48701,654,48900,21,12.95,Self-Employed,PhD,Single,2,Own,39,6,1,0,0,122,4.84
+159,56,Male,48380,20033,602,16779,12,9.98,Employed,Master,Widowed,1,Rent,21,3,0,0,0,268,2.18
+160,66,Male,130198,11805,795,3629,23,6.24,Employed,PhD,Widowed,0,Mortgage,40,2,1,1,0,116,7.29
+161,69,Male,22356,36851,526,38715,29,4.49,Employed,High School,Widowed,2,Rent,37,8,0,1,0,72,5.11
+162,49,Female,90326,27832,535,39397,1,9.22,Employed,Master,Married,2,Rent,18,1,1,0,0,280,5.78
+163,21,Female,112447,64437,754,6350,11,9.59,Employed,High School,Divorced,4,Mortgage,48,9,0,0,1,208,2.32
+164,47,Male,134994,14944,312,21088,21,4.69,Self-Employed,Bachelor,Divorced,3,Rent,46,7,1,0,1,155,2.26
+165,54,Female,109899,20873,509,40714,15,13.07,Employed,Master,Single,0,Mortgage,12,4,1,1,0,70,6.25
+166,40,Male,40049,41372,696,12449,2,3.1,Self-Employed,Bachelor,Married,2,Own,17,3,0,1,1,129,9.87
+167,56,Male,95717,90464,399,9019,20,6.63,Employed,Master,Widowed,4,Rent,37,6,0,0,1,70,1.87
+168,62,Male,125361,16379,330,26875,7,10.84,Unemployed,High School,Single,0,Mortgage,46,9,0,1,1,35,3.57
+169,32,Male,36082,37751,827,33582,21,5.56,Unemployed,PhD,Married,3,Mortgage,38,9,0,1,1,124,8.83
+170,60,Female,20661,90822,628,12237,12,12.76,Employed,High School,Single,2,Rent,15,4,0,1,1,49,1.65
+171,46,Female,57412,6110,465,1634,22,11.62,Unemployed,High School,Married,2,Own,7,5,1,1,1,125,8.88
+172,53,Female,134015,55341,758,11438,18,12.26,Self-Employed,High School,Married,2,Rent,14,9,0,0,0,145,5.72
+173,30,Male,143191,13087,399,24986,3,3.55,Employed,Master,Divorced,0,Mortgage,1,2,1,0,0,286,4.67
+174,49,Male,22920,24762,472,48856,7,3.83,Self-Employed,PhD,Single,0,Own,38,2,0,1,1,30,3.79
+175,24,Male,111194,83617,461,26596,11,5.72,Employed,Bachelor,Widowed,0,Rent,3,5,1,1,0,40,3.67
+176,68,Female,134306,10596,562,41615,18,8.74,Unemployed,High School,Divorced,0,Mortgage,37,1,1,1,1,256,3.75
+177,39,Male,80315,19313,573,6092,12,11.72,Self-Employed,Master,Divorced,4,Rent,44,8,0,0,0,36,8.96
+178,45,Female,99561,67549,302,18608,6,12.87,Unemployed,Bachelor,Widowed,1,Own,31,5,0,0,0,82,7.51
+179,19,Female,28946,24705,327,17770,5,11.16,Unemployed,High School,Married,4,Own,43,2,1,1,0,106,7.03
+180,59,Female,114242,68364,625,28149,26,14.07,Employed,Bachelor,Widowed,2,Own,13,9,1,1,1,170,8.19
+181,62,Female,65500,74445,448,11497,1,11.6,Self-Employed,High School,Single,4,Own,48,2,0,1,0,296,3.31
+182,23,Female,124540,79645,839,33989,12,5.98,Unemployed,Bachelor,Widowed,3,Own,18,7,1,1,0,221,6.56
+183,45,Female,36309,3023,787,9604,27,5.45,Employed,Bachelor,Married,0,Rent,17,8,1,0,1,85,5.14
+184,45,Male,75230,60796,737,1370,26,11.05,Employed,PhD,Widowed,3,Own,17,6,1,0,1,152,8.04
+185,61,Male,131822,81073,364,29184,11,4.51,Employed,PhD,Married,3,Own,11,7,1,0,0,43,3.78
+186,61,Female,118656,93197,655,40019,4,3.21,Unemployed,High School,Married,2,Mortgage,20,1,1,0,1,13,6.79
+187,37,Female,143782,65429,832,35024,27,8.92,Employed,Master,Single,0,Own,10,4,1,0,0,107,8.94
+188,47,Male,50027,62627,551,31457,18,12.68,Self-Employed,PhD,Widowed,3,Mortgage,29,7,0,0,0,226,4.62
+189,28,Female,146768,34848,534,34385,4,3.32,Self-Employed,Bachelor,Widowed,2,Mortgage,48,1,0,1,1,37,1.6
+190,45,Female,92541,38804,526,44869,17,12.29,Unemployed,PhD,Single,0,Mortgage,34,1,0,1,1,210,5.64
+191,42,Male,132340,16379,824,36096,2,12.55,Self-Employed,PhD,Married,1,Rent,17,6,0,0,0,282,4.11
+192,56,Female,134846,60664,612,30366,29,8.27,Employed,High School,Widowed,2,Rent,42,4,1,0,1,136,7.05
+193,50,Female,79321,28766,348,31176,24,2.75,Unemployed,PhD,Single,4,Mortgage,13,3,0,0,0,211,9.56
+194,18,Female,20956,69099,417,48264,22,4.27,Employed,PhD,Married,0,Rent,44,5,1,1,1,18,5.37
+195,44,Male,120375,37060,353,14378,2,11.2,Unemployed,Bachelor,Single,3,Own,47,9,1,1,1,296,5.2
+196,69,Male,94131,95733,343,40260,12,11.25,Unemployed,PhD,Widowed,3,Rent,39,3,0,1,1,97,6.89
+197,30,Male,67908,70122,352,28059,6,13.68,Employed,Bachelor,Single,4,Own,27,5,0,1,1,28,1.93
+198,58,Female,98339,17087,824,47046,10,9.57,Self-Employed,PhD,Divorced,4,Own,26,5,1,0,1,90,3.28
+199,20,Female,145659,49868,401,7271,25,3.61,Self-Employed,PhD,Married,3,Rent,28,9,0,1,0,116,9.27
+200,56,Male,45963,24225,697,17026,23,3.58,Unemployed,Master,Divorced,0,Rent,13,4,0,0,0,239,7.03
+201,23,Female,121757,96286,437,30396,25,11.37,Employed,PhD,Divorced,2,Mortgage,12,1,1,1,0,121,1.12
+202,25,Female,59443,7643,686,32423,21,4.39,Employed,Bachelor,Married,4,Rent,44,5,1,1,1,229,2.84
+203,44,Female,119259,94059,410,36703,23,6.27,Unemployed,Bachelor,Married,4,Rent,28,1,1,1,0,132,7.15
+204,26,Female,59063,37727,316,39890,27,8.33,Self-Employed,High School,Single,4,Rent,2,6,1,1,0,253,7.88
+205,54,Female,134225,12005,481,13352,16,2.32,Employed,High School,Married,1,Own,37,7,1,0,1,187,8.56
+206,50,Male,136400,66697,835,48074,14,5.23,Self-Employed,Master,Divorced,0,Own,34,1,1,0,1,74,3.63
+207,68,Female,100818,17029,840,43891,7,7.3,Self-Employed,Bachelor,Divorced,0,Own,23,4,0,0,1,12,9.38
+208,59,Male,24703,15226,470,2348,28,5.64,Unemployed,Bachelor,Widowed,0,Mortgage,45,9,0,0,0,216,5.98
+209,61,Female,85128,64646,708,31527,28,3.77,Unemployed,Bachelor,Married,0,Mortgage,29,1,0,0,0,30,7.27
+210,41,Male,92099,61603,677,35964,19,11.46,Self-Employed,Master,Divorced,0,Mortgage,35,9,1,0,1,24,6.37
+211,32,Female,45849,29731,487,34985,23,12.57,Employed,Bachelor,Widowed,3,Own,11,8,1,0,0,215,2.1
+212,49,Male,51860,69926,529,19956,17,5.35,Employed,High School,Widowed,4,Rent,48,5,0,1,0,211,9.67
+213,49,Female,51585,6997,418,9759,9,12.07,Unemployed,Master,Single,3,Mortgage,33,6,0,0,1,129,2.11
+214,41,Male,42015,56506,455,36054,26,7.01,Self-Employed,High School,Divorced,1,Mortgage,11,7,0,1,0,146,3.29
+215,58,Female,97539,79229,764,47422,13,8.59,Employed,High School,Single,2,Own,9,4,1,0,1,34,8.32
+216,69,Male,63585,50815,403,13909,22,13.13,Employed,Master,Divorced,4,Mortgage,14,6,0,1,0,243,6.57
+217,66,Female,46958,43092,801,4291,5,11.75,Unemployed,PhD,Single,1,Rent,9,7,0,0,1,130,8.54
+218,66,Male,46017,63539,474,26364,23,12.47,Self-Employed,PhD,Single,3,Own,39,6,0,1,0,99,5.64
+219,69,Male,96707,67077,720,37139,5,3.78,Employed,High School,Married,2,Own,48,6,1,0,0,209,4.39
+220,29,Female,144677,22817,433,35074,10,2.91,Unemployed,PhD,Single,1,Rent,3,2,0,0,1,189,9.3
+221,56,Female,65350,38861,690,18388,21,13.61,Employed,Bachelor,Married,2,Rent,29,5,0,0,1,85,1.33
+222,19,Male,32201,14428,800,20192,27,7.04,Employed,Master,Widowed,1,Rent,19,3,1,0,1,146,8.71
+223,20,Female,49426,44934,332,24001,10,5.74,Employed,High School,Divorced,3,Mortgage,36,7,1,1,1,147,3.08
+224,66,Male,37778,11258,354,13804,27,11.42,Unemployed,Bachelor,Widowed,2,Rent,32,4,1,0,0,19,8.64
+225,54,Male,65241,58775,818,28027,7,12.87,Self-Employed,PhD,Divorced,1,Own,7,1,1,0,1,210,2.25
+226,66,Male,62229,82580,311,18574,26,13.21,Unemployed,Bachelor,Widowed,3,Rent,28,6,1,1,1,228,6.22
+227,34,Female,106652,95947,827,16049,15,6.11,Self-Employed,PhD,Divorced,4,Own,44,6,0,0,1,69,8.99
+228,66,Male,148267,6469,672,30463,7,13.08,Employed,High School,Single,3,Own,18,7,0,1,1,156,5.26
+229,19,Male,138402,29854,783,26420,29,2.53,Self-Employed,Bachelor,Divorced,3,Mortgage,5,8,1,1,1,116,7.72
+230,19,Female,68364,7256,527,31326,27,2.65,Employed,Master,Divorced,4,Rent,23,3,1,0,0,47,8.24
+231,45,Female,118833,77256,606,36571,15,10.11,Employed,High School,Widowed,3,Mortgage,22,6,1,0,1,143,7.63
+232,40,Female,146503,34937,756,16561,3,2.82,Unemployed,Bachelor,Widowed,4,Rent,26,2,1,1,1,230,9.33
+233,54,Female,149044,2651,459,29310,19,6.22,Employed,Bachelor,Widowed,4,Rent,42,9,0,0,1,142,5.02
+234,49,Male,104878,51288,630,48466,10,10.75,Unemployed,PhD,Married,4,Rent,12,2,0,1,0,62,2.56
+235,50,Male,77056,85730,524,23300,28,6.38,Self-Employed,High School,Married,1,Rent,40,3,1,0,0,71,1.43
+236,18,Male,47490,26051,803,43923,29,4.33,Self-Employed,High School,Divorced,2,Rent,19,2,1,0,0,32,3.22
+237,36,Male,147769,28386,755,42192,15,5.66,Employed,High School,Divorced,1,Own,47,9,1,1,1,53,2.29
+238,19,Female,39975,76054,344,10440,3,7.95,Unemployed,High School,Single,4,Own,1,1,1,0,1,55,6.02
+239,61,Male,46723,17184,513,4424,6,8.18,Employed,PhD,Single,2,Rent,3,5,0,0,0,156,2.66
+240,43,Male,43279,34787,358,28554,12,12.18,Unemployed,Master,Divorced,2,Own,27,1,1,0,0,225,1.35
+241,49,Female,98301,22621,494,10283,15,11.75,Unemployed,High School,Married,4,Mortgage,18,5,1,1,1,56,1.32
+242,23,Male,132214,76564,788,37753,6,7.94,Unemployed,PhD,Divorced,2,Mortgage,30,8,0,0,1,33,8.48
+243,49,Male,31561,78984,456,45897,13,12.99,Self-Employed,Master,Single,2,Mortgage,2,8,1,1,1,154,6.32
+244,21,Male,127435,60792,525,13733,29,3.49,Unemployed,Master,Married,1,Rent,5,8,0,0,0,98,4.22
+245,28,Male,86061,46253,711,46169,19,5.32,Self-Employed,PhD,Married,2,Rent,29,2,1,1,1,183,9.05
+246,34,Male,108397,35051,504,24984,3,12.76,Unemployed,High School,Single,4,Own,33,8,1,0,1,73,1.63
+247,55,Male,69153,50811,378,25568,8,6.91,Self-Employed,Master,Divorced,0,Own,42,5,0,0,0,128,9.82
+248,41,Female,53142,31447,423,691,8,14.76,Self-Employed,High School,Widowed,0,Own,20,1,1,1,0,232,6.55
+249,22,Female,46916,84930,770,25574,23,8.06,Self-Employed,High School,Divorced,0,Mortgage,30,7,0,0,0,165,2.65
+250,69,Male,84324,31254,517,5417,26,12.3,Employed,Bachelor,Divorced,4,Mortgage,42,6,0,1,1,187,7.11
+251,51,Male,64965,85045,815,39099,20,7.23,Unemployed,High School,Single,0,Mortgage,5,5,0,0,0,65,7.87
+252,23,Female,145932,58418,403,26332,15,7.52,Employed,Bachelor,Married,1,Mortgage,21,1,1,1,0,68,4.86
+253,39,Male,24648,15472,692,43428,4,6.98,Unemployed,Master,Single,4,Own,15,1,1,0,1,229,8.75
+254,28,Male,55133,4471,733,21206,19,11.35,Unemployed,PhD,Divorced,4,Rent,20,6,0,1,1,194,2.36
+255,65,Male,70677,96804,630,14182,21,9.12,Employed,Bachelor,Widowed,4,Rent,8,7,1,0,0,56,3.51
+256,33,Female,116059,9329,442,27262,3,14.27,Self-Employed,PhD,Widowed,2,Mortgage,49,1,1,1,1,111,1.84
+257,50,Male,114588,35865,839,23883,13,5.26,Unemployed,Master,Widowed,2,Rent,31,9,1,1,0,53,2.9
+258,26,Female,119950,47850,577,28296,8,3.31,Self-Employed,High School,Single,2,Rent,12,4,0,0,1,24,3.15
+259,23,Male,118317,55220,532,24166,23,7.11,Employed,Master,Married,3,Rent,21,5,0,1,1,245,9.26
+260,33,Female,90135,94808,828,26162,16,10.02,Self-Employed,PhD,Single,1,Mortgage,30,2,1,1,0,60,1.7
+261,46,Female,55046,7397,389,45659,13,13.19,Unemployed,Master,Widowed,4,Own,27,8,0,0,0,43,4.85
+262,20,Male,67064,98909,791,35142,3,6.5,Unemployed,High School,Divorced,4,Own,44,2,1,0,0,133,5.79
+263,37,Female,121459,36525,498,42330,16,10.5,Unemployed,Master,Married,2,Rent,26,3,1,0,1,86,9.09
+264,53,Male,126625,54072,661,38031,9,6.55,Employed,High School,Single,4,Own,33,9,1,0,0,132,9.98
+265,36,Female,89350,91106,740,10734,28,10.02,Unemployed,Bachelor,Single,4,Own,26,2,0,0,1,214,7.78
+266,43,Male,65893,84820,325,9721,14,13.5,Employed,PhD,Married,0,Mortgage,26,6,0,0,1,237,9.74
+267,20,Male,121520,85530,324,11910,13,5.01,Self-Employed,High School,Married,4,Mortgage,36,4,1,1,0,79,8.08
+268,36,Female,145818,24284,693,15019,21,7.26,Unemployed,High School,Divorced,3,Rent,40,7,0,1,1,239,9.67
+269,37,Male,81272,62330,806,1551,25,14.91,Unemployed,Master,Married,2,Rent,1,6,1,1,1,30,7.37
+270,49,Male,112152,84369,600,45493,7,13.29,Unemployed,Bachelor,Divorced,1,Rent,15,9,0,0,0,117,1.72
+271,24,Female,142907,26122,638,10265,15,9.34,Self-Employed,High School,Widowed,1,Mortgage,1,9,0,0,1,250,4.62
+272,69,Male,87649,71553,566,11882,7,8.72,Unemployed,Bachelor,Widowed,0,Own,11,4,0,1,1,260,6.82
+273,58,Male,84674,82906,760,13080,6,5.7,Employed,Bachelor,Single,1,Mortgage,2,1,1,1,0,144,4.16
+274,50,Female,144132,95788,755,32823,2,8.72,Self-Employed,Master,Widowed,1,Mortgage,1,2,1,0,0,99,3.46
+275,57,Female,139044,63812,659,45257,9,13.03,Self-Employed,High School,Widowed,2,Own,31,8,1,1,1,88,6.2
+276,56,Male,128542,8999,367,12439,22,10.91,Self-Employed,Master,Divorced,2,Own,44,8,0,0,1,186,9.4
+277,35,Male,33760,23436,711,30464,24,5.77,Self-Employed,PhD,Single,3,Rent,16,2,1,0,1,111,1.31
+278,57,Female,41927,43963,790,807,17,4.62,Self-Employed,PhD,Married,0,Own,22,4,1,1,1,121,7.92
+279,18,Female,106475,3096,348,3859,5,5.45,Employed,High School,Single,1,Own,42,1,1,0,0,190,7.5
+280,28,Male,81367,26279,401,30148,12,4.21,Self-Employed,Bachelor,Widowed,3,Own,18,7,1,0,1,113,9.68
+281,45,Female,117955,27201,515,36444,1,3.24,Unemployed,High School,Married,0,Own,47,4,0,0,1,25,9.38
+282,42,Male,32588,20715,737,34519,10,7.45,Self-Employed,High School,Single,1,Rent,17,8,0,0,1,105,7.86
+283,67,Male,141750,30309,458,38634,11,3.47,Self-Employed,PhD,Single,1,Rent,30,9,1,1,1,155,5.68
+284,40,Male,121678,16078,788,27823,16,4.23,Self-Employed,PhD,Single,2,Own,10,9,0,0,0,11,2.84
+285,48,Male,124734,57614,541,6726,14,9.12,Self-Employed,Bachelor,Single,4,Own,35,3,0,0,1,128,5.91
+286,47,Male,138154,6105,304,22189,8,4.14,Self-Employed,Bachelor,Divorced,0,Rent,21,5,0,1,0,103,7.89
+287,59,Female,72233,95848,660,31471,24,2.83,Employed,High School,Single,1,Rent,16,6,0,0,0,200,9.06
+288,52,Female,64738,3839,758,26454,17,6.13,Employed,Master,Widowed,0,Own,6,6,0,0,0,12,8.11
+289,24,Female,53397,69920,547,24923,25,4.86,Self-Employed,High School,Widowed,3,Mortgage,3,8,1,1,0,120,2.76
+290,33,Female,102189,44619,721,30891,18,8.7,Employed,Bachelor,Divorced,3,Rent,41,6,0,1,0,186,6.4
+291,43,Male,96367,43821,314,14830,12,3.33,Unemployed,Master,Married,4,Rent,43,6,1,0,1,266,3.99
+292,65,Male,144873,14493,421,5391,25,11.77,Self-Employed,PhD,Married,1,Rent,21,4,1,0,0,31,1.08
+293,69,Male,91260,18069,576,5492,17,13.78,Unemployed,Bachelor,Widowed,2,Own,13,7,1,1,0,229,2.8
+294,66,Male,140585,8531,752,2461,28,11.66,Unemployed,Bachelor,Widowed,1,Own,18,8,0,0,0,182,2.02
+295,19,Female,96619,38051,689,12997,26,8.93,Self-Employed,Master,Divorced,0,Rent,24,3,0,0,1,233,8.58
+296,18,Male,131453,8736,593,33051,14,13.19,Unemployed,Bachelor,Married,3,Own,27,7,0,0,0,74,3.33
+297,65,Male,39816,8710,745,11348,16,11.03,Unemployed,Bachelor,Married,0,Own,4,3,0,1,1,286,3.56
+298,29,Female,62240,68155,509,13755,14,2.14,Unemployed,Bachelor,Single,4,Rent,22,8,1,0,0,258,9.64
+299,22,Female,26276,14975,601,5067,9,7.12,Self-Employed,Bachelor,Single,3,Own,24,1,1,1,0,269,4.41
+300,54,Female,133939,63424,522,49347,4,13.06,Self-Employed,Bachelor,Single,2,Mortgage,40,1,1,1,1,140,1.09
+301,49,Female,124199,46603,302,39781,25,6.5,Unemployed,Bachelor,Divorced,3,Own,45,6,0,1,1,122,3.55
+302,26,Male,99530,24252,817,48503,23,2.46,Self-Employed,Bachelor,Widowed,1,Own,10,9,1,1,1,295,2.07
+303,58,Male,43499,81797,392,20889,11,11.7,Self-Employed,Bachelor,Divorced,1,Rent,2,4,1,0,0,296,1.93
+304,52,Female,108576,2431,819,45023,6,12.43,Unemployed,PhD,Married,3,Rent,40,6,1,1,1,220,1.7
+305,36,Male,128856,75603,727,44419,15,4.09,Self-Employed,Bachelor,Widowed,4,Mortgage,6,5,0,0,1,29,6.34
+306,65,Male,102495,38481,792,17067,5,8.99,Employed,PhD,Single,1,Own,48,1,1,1,1,224,2.7
+307,33,Male,141717,93573,534,3858,11,4.5,Self-Employed,PhD,Divorced,1,Mortgage,18,6,1,1,1,260,4.25
+308,20,Female,91635,10557,460,23499,25,11.35,Employed,High School,Divorced,2,Mortgage,17,9,0,0,1,280,8.76
+309,37,Male,127803,75971,630,42858,18,5.53,Unemployed,High School,Single,3,Rent,38,3,1,1,0,189,4.82
+310,41,Female,105112,1162,632,11488,13,6.11,Self-Employed,PhD,Divorced,1,Own,45,3,0,1,1,203,9.24
+311,50,Male,55946,35742,349,40946,11,12.98,Unemployed,PhD,Single,4,Rent,23,2,1,0,0,88,5.48
+312,41,Male,75204,20675,822,32021,14,8.19,Unemployed,Bachelor,Married,0,Mortgage,46,4,0,1,1,189,4.59
+313,69,Male,71886,74997,791,6198,28,10.71,Unemployed,High School,Widowed,3,Mortgage,30,3,0,1,1,172,7.75
+314,28,Female,91652,18015,571,1773,18,7.23,Unemployed,Master,Married,2,Rent,21,2,0,1,0,211,1.66
+315,66,Male,35563,51057,551,28043,27,5.87,Unemployed,High School,Married,1,Rent,10,1,1,0,0,23,1.81
+316,25,Female,112324,33591,389,31849,28,10.13,Self-Employed,PhD,Single,4,Rent,43,3,1,1,0,255,6.87
+317,53,Female,112464,94583,745,11741,25,4.01,Employed,PhD,Divorced,3,Rent,13,6,0,0,0,23,5.38
+318,55,Female,121872,10833,631,9997,28,6.85,Self-Employed,Bachelor,Married,4,Rent,12,9,0,0,1,108,8.11
+319,57,Male,29847,8896,438,42375,19,4.72,Self-Employed,Bachelor,Married,4,Mortgage,9,5,0,0,0,42,9.25
+320,37,Male,46155,33972,656,33203,24,11.05,Self-Employed,High School,Married,2,Rent,4,3,0,1,1,266,4.5
+321,52,Male,99671,50733,573,44541,27,14.27,Self-Employed,Bachelor,Divorced,3,Own,39,5,0,1,1,43,6.37
+322,65,Male,136891,42800,318,32454,15,14.94,Employed,Master,Divorced,1,Mortgage,24,5,0,1,1,28,5.51
+323,42,Female,103310,97044,610,8502,9,7.85,Self-Employed,Master,Single,2,Mortgage,34,5,0,1,0,161,9.83
+324,52,Female,87278,6347,453,4747,8,5.28,Unemployed,Bachelor,Married,1,Own,39,7,0,0,0,269,8.48
+325,42,Female,38309,60063,689,42488,20,7.76,Self-Employed,Master,Widowed,0,Own,41,5,0,0,0,173,9.21
+326,46,Male,20619,96850,559,22198,28,13.01,Self-Employed,Master,Divorced,4,Mortgage,5,7,0,1,1,86,3.29
+327,35,Female,103194,3643,424,20238,1,4.68,Employed,High School,Single,0,Rent,15,9,0,1,0,146,7.95
+328,63,Male,70108,41785,653,11203,4,14.38,Employed,Master,Married,4,Mortgage,4,5,0,0,0,217,3.39
+329,35,Female,54707,19681,572,48740,14,6.44,Unemployed,PhD,Widowed,2,Mortgage,39,2,1,1,1,251,2.88
+330,19,Male,40337,51026,544,49922,25,14.82,Self-Employed,PhD,Divorced,1,Own,8,5,0,1,0,76,9.5
+331,52,Male,145261,16892,749,18070,2,12.9,Self-Employed,High School,Widowed,1,Mortgage,49,8,1,1,1,125,1.17
+332,33,Female,101537,48299,546,12892,16,12.51,Self-Employed,Bachelor,Divorced,2,Rent,45,4,1,1,0,211,9.69
+333,58,Female,86504,18073,819,45224,3,6.13,Unemployed,High School,Single,3,Own,24,2,1,1,0,259,2.34
+334,53,Female,67614,31682,440,32799,26,2.11,Employed,Bachelor,Widowed,0,Mortgage,28,3,0,1,0,287,8.37
+335,50,Female,111428,98798,661,16141,8,6.97,Unemployed,Bachelor,Married,0,Mortgage,43,9,1,0,0,121,3.48
+336,21,Male,111155,97894,307,14498,6,5.92,Self-Employed,Bachelor,Married,1,Rent,27,9,0,0,0,243,4.16
+337,50,Female,20281,15289,777,6805,16,2.49,Employed,Bachelor,Divorced,1,Mortgage,1,8,1,0,1,185,2.95
+338,31,Female,47420,8927,651,33226,24,8.57,Employed,Bachelor,Married,1,Mortgage,34,8,0,0,0,152,6.27
+339,38,Female,100896,49330,794,19282,16,7.24,Unemployed,High School,Widowed,2,Mortgage,17,8,0,1,0,41,4.13
+340,65,Male,59030,67707,726,13221,7,10.25,Employed,Bachelor,Single,3,Mortgage,37,8,1,1,0,190,6.92
+341,37,Male,21058,78454,338,40263,13,10.08,Employed,Master,Divorced,0,Rent,38,8,1,0,0,76,1.14
+342,25,Female,106213,66428,486,12927,13,3.57,Self-Employed,Master,Widowed,4,Mortgage,26,1,0,0,0,13,1.58
+343,24,Male,96260,51601,392,47050,5,14.7,Self-Employed,Bachelor,Divorced,2,Mortgage,24,6,1,0,0,295,1.9
+344,20,Female,48404,78465,385,21066,25,4.43,Employed,Master,Single,0,Mortgage,39,9,0,0,0,278,4.77
+345,34,Male,123482,3539,343,2730,20,7.79,Employed,PhD,Divorced,3,Own,21,8,0,0,1,245,8.33
+346,50,Male,125284,23669,436,7011,22,8.35,Unemployed,High School,Married,2,Rent,30,3,0,1,1,286,8.99
+347,65,Male,49856,71968,720,49780,18,12.57,Unemployed,High School,Married,0,Own,47,1,1,1,0,50,3.2
+348,29,Male,29200,21644,373,42729,15,3.29,Employed,Bachelor,Divorced,2,Own,48,2,0,0,1,130,6.17
+349,68,Female,84178,19745,847,26677,18,7.57,Self-Employed,Bachelor,Single,0,Rent,13,2,0,0,0,284,7.92
+350,39,Female,53997,29228,811,5265,2,10.17,Employed,PhD,Single,0,Own,37,7,0,1,1,240,3.6
+351,39,Female,45611,35521,455,20854,10,4.8,Employed,Bachelor,Married,3,Own,3,6,0,1,0,95,4.68
+352,63,Male,139273,98239,554,24429,23,10.16,Self-Employed,Master,Single,4,Own,32,2,1,1,0,72,5.72
+353,47,Female,61235,27928,470,29320,13,14.01,Self-Employed,PhD,Divorced,3,Rent,35,8,1,0,1,201,2.21
+354,55,Female,137428,19322,469,46540,18,14.97,Unemployed,Master,Widowed,0,Mortgage,19,9,1,1,0,40,1.23
+355,55,Female,55057,58714,621,30023,15,2.42,Unemployed,High School,Divorced,2,Rent,14,7,1,0,1,155,2.38
+356,62,Male,21239,88896,755,6052,12,5.06,Unemployed,Master,Married,3,Rent,48,4,0,0,0,116,6.64
+357,68,Male,123674,63292,454,1127,15,6.03,Unemployed,High School,Married,4,Rent,22,1,0,1,0,119,1.66
+358,25,Male,134474,30055,648,12489,13,7.19,Self-Employed,Master,Married,0,Own,17,4,0,1,0,285,2.71
+359,44,Female,85661,43891,750,14280,18,5.15,Employed,High School,Single,3,Mortgage,4,4,0,1,0,219,4.04
+360,44,Female,146945,82912,472,7089,15,4.65,Unemployed,Bachelor,Divorced,3,Rent,45,8,0,0,1,148,1.7
+361,51,Female,65272,7588,309,35312,25,14.41,Unemployed,Master,Widowed,3,Rent,40,4,0,1,0,95,2.73
+362,38,Male,109393,91536,564,28628,23,13.94,Self-Employed,High School,Divorced,3,Mortgage,19,4,1,1,1,53,9.2
+363,47,Male,81212,7304,737,46439,11,2.61,Self-Employed,Master,Widowed,2,Mortgage,37,2,0,0,1,91,1.17
+364,50,Female,144088,8345,546,39152,19,6.4,Employed,PhD,Divorced,4,Mortgage,2,7,0,1,0,73,6.88
+365,45,Male,35398,30300,845,28290,3,7.27,Employed,Bachelor,Married,4,Own,15,4,0,1,0,64,4.46
+366,64,Male,140030,25259,798,41453,7,5.11,Self-Employed,High School,Widowed,0,Mortgage,2,6,1,0,1,83,7.05
+367,50,Male,76503,92006,428,749,21,10.18,Unemployed,PhD,Divorced,1,Own,11,3,0,0,1,138,6.3
+368,22,Male,26638,89553,626,19809,26,10.32,Unemployed,Master,Single,2,Rent,45,7,0,0,0,265,3.01
+369,65,Female,26570,16352,703,26401,14,13.06,Unemployed,PhD,Single,0,Own,23,6,0,0,1,240,8.62
+370,36,Male,88785,34365,658,24076,14,11.63,Employed,Master,Divorced,0,Mortgage,10,3,1,0,1,146,5.43
+371,21,Male,29110,20446,316,32008,22,9.05,Unemployed,Bachelor,Married,3,Own,3,4,0,1,1,121,8.4
+372,52,Male,125899,3336,573,9675,13,10.5,Unemployed,PhD,Widowed,1,Mortgage,5,5,0,1,0,155,4.65
+373,66,Male,99141,63032,415,25964,12,5.56,Self-Employed,Bachelor,Divorced,1,Own,3,9,1,0,1,42,9.86
+374,34,Female,32115,76415,390,16760,24,9.71,Unemployed,High School,Single,2,Rent,38,6,0,1,1,269,7.93
+375,61,Female,59062,98852,381,35940,9,8.36,Self-Employed,Master,Widowed,1,Own,13,4,1,1,1,96,9.69
+376,45,Male,42911,99876,623,30046,1,3.73,Unemployed,Master,Single,0,Rent,42,7,0,0,1,274,5.63
+377,47,Male,124061,8521,413,40547,19,5.15,Employed,Bachelor,Single,1,Mortgage,19,2,1,0,0,39,5.26
+378,46,Male,52556,72707,357,41930,11,5.79,Unemployed,Bachelor,Divorced,1,Rent,40,4,0,0,0,241,7.8
+379,63,Male,98131,24481,453,2487,23,14.02,Unemployed,High School,Single,4,Mortgage,35,5,0,1,1,85,8.92
+380,23,Male,148335,19474,703,49742,22,5,Self-Employed,PhD,Widowed,0,Mortgage,24,4,1,0,1,138,9.68
+381,52,Male,21969,47760,565,25605,23,5.76,Self-Employed,Master,Married,1,Rent,24,4,0,1,1,280,3.92
+382,58,Female,63753,56718,614,13448,24,6.8,Self-Employed,Master,Divorced,1,Rent,17,9,0,1,0,98,8.19
+383,54,Male,102811,45629,340,13526,22,10.63,Unemployed,High School,Widowed,3,Own,40,2,1,1,0,179,2.9
+384,41,Female,24470,46232,404,3273,19,3.54,Unemployed,High School,Divorced,1,Own,10,6,0,1,1,137,5.91
+385,46,Female,141863,87544,492,46427,18,14.4,Employed,Bachelor,Single,1,Rent,2,8,1,0,1,183,2.62
+386,66,Male,30225,68169,700,10378,12,13.25,Unemployed,Bachelor,Single,4,Rent,44,8,0,1,0,35,4.13
+387,63,Female,127860,51669,577,43446,23,9.5,Employed,PhD,Widowed,0,Rent,23,7,1,0,1,70,9.38
+388,48,Female,143008,79021,653,10877,28,10.76,Self-Employed,High School,Widowed,2,Rent,6,4,0,1,1,76,2.31
+389,52,Female,127510,70184,555,7847,28,2.22,Self-Employed,PhD,Married,0,Mortgage,2,7,0,0,0,35,6.69
+390,50,Female,128295,48945,398,34276,28,6.41,Self-Employed,High School,Widowed,3,Rent,21,6,1,0,0,92,6.34
+391,69,Female,43196,14140,581,4283,27,12.34,Employed,Master,Widowed,0,Rent,35,6,0,0,0,69,2.09
+392,38,Female,125823,84457,702,4798,1,3.01,Unemployed,High School,Divorced,1,Rent,49,2,1,1,0,48,3.93
+393,49,Male,33669,15357,408,5168,19,5.67,Self-Employed,High School,Single,3,Rent,29,8,1,1,0,132,6.07
+394,40,Female,57380,69673,498,21171,28,9.61,Unemployed,Master,Widowed,0,Mortgage,7,8,1,1,1,286,2.68
+395,50,Female,144398,66633,602,35320,27,5.33,Unemployed,High School,Married,3,Own,29,7,0,0,0,291,8.21
+396,20,Female,130677,77943,626,34984,20,14.14,Self-Employed,PhD,Widowed,2,Own,37,9,0,1,0,200,9.75
+397,35,Male,135886,97111,453,33578,29,3.7,Employed,Bachelor,Single,0,Own,23,8,0,1,0,161,2.93
+398,42,Female,146753,79258,704,47659,17,12.37,Unemployed,Bachelor,Widowed,1,Own,33,9,1,1,0,242,2.68
+399,59,Male,68320,13924,761,21422,5,8.6,Self-Employed,PhD,Divorced,3,Own,8,9,1,0,0,155,5.09
+400,48,Female,67414,70286,431,34528,26,11.75,Unemployed,Master,Single,4,Mortgage,12,6,1,1,0,280,7.73
+401,20,Male,123542,94269,383,46425,3,6.04,Unemployed,High School,Widowed,3,Own,46,2,0,1,1,143,3.53
+402,57,Male,35577,75071,698,20816,2,8.69,Unemployed,PhD,Divorced,4,Mortgage,48,7,1,0,0,180,1.18
+403,63,Female,145354,58326,408,11960,3,13.14,Unemployed,Bachelor,Single,1,Mortgage,10,3,0,0,1,37,5.87
+404,41,Female,108009,91023,520,17468,8,8.07,Unemployed,Bachelor,Widowed,2,Own,15,7,0,0,1,145,9.61
+405,67,Male,146365,31651,667,30766,16,6.68,Employed,PhD,Divorced,4,Own,24,9,0,0,0,250,4.52
+406,49,Female,75409,71202,446,30709,6,8.97,Employed,Bachelor,Married,2,Own,26,2,0,0,0,237,4.78
+407,64,Male,48625,49777,411,24500,13,11.33,Self-Employed,PhD,Divorced,3,Rent,47,6,0,0,1,296,9.72
+408,39,Male,101040,17994,793,14511,23,7.77,Employed,Bachelor,Married,1,Mortgage,42,6,0,1,1,43,7.25
+409,40,Male,44089,68263,804,3366,28,14.21,Employed,PhD,Widowed,4,Own,39,9,0,1,1,11,7.47
+410,19,Male,56487,60634,774,47633,22,5.83,Employed,High School,Divorced,3,Rent,3,9,0,0,0,204,6.06
+411,44,Male,85838,11800,570,6398,22,8.18,Unemployed,High School,Married,0,Mortgage,2,5,1,1,1,103,9.77
+412,59,Female,116999,38823,720,18895,16,11.84,Unemployed,High School,Single,3,Rent,6,5,0,0,0,144,7.2
+413,19,Male,130448,64878,666,39519,28,10.96,Self-Employed,High School,Divorced,2,Rent,21,9,0,1,0,213,9.06
+414,43,Male,114795,19708,579,38207,16,13.23,Self-Employed,Bachelor,Widowed,1,Own,9,8,1,0,1,259,7.29
+415,34,Female,70138,13819,582,4506,3,14.96,Self-Employed,Master,Single,1,Mortgage,10,7,1,0,0,156,7.62
+416,57,Male,62823,75905,339,34893,28,7.55,Unemployed,PhD,Married,3,Rent,36,8,1,1,0,263,3.61
+417,50,Female,57208,64870,488,11456,13,3.44,Employed,Master,Divorced,0,Mortgage,3,6,1,1,1,185,3.73
+418,26,Female,74061,10283,463,31163,14,2.4,Employed,Bachelor,Divorced,2,Own,41,3,0,1,1,134,8.05
+419,60,Female,50659,31573,835,6578,8,11.45,Unemployed,Bachelor,Widowed,3,Mortgage,24,7,1,1,0,260,3.67
+420,65,Male,149824,79707,835,30131,12,13.36,Self-Employed,Master,Single,3,Rent,22,8,1,1,1,140,6.06
+421,56,Male,121376,31933,303,30640,23,4.87,Self-Employed,Master,Divorced,1,Rent,49,8,1,1,0,59,3.24
+422,46,Male,51890,6774,589,42191,23,4.06,Self-Employed,Bachelor,Divorced,2,Mortgage,14,1,1,1,1,102,8.35
+423,59,Female,99134,73055,732,4461,22,2.81,Unemployed,Bachelor,Single,0,Rent,42,7,0,1,1,229,1.99
+424,43,Male,67055,11983,770,29777,21,12.7,Self-Employed,PhD,Divorced,1,Rent,45,3,1,0,1,29,8.47
+425,52,Female,132269,97468,480,42074,26,6.05,Self-Employed,High School,Single,3,Rent,44,2,1,1,1,214,6.42
+426,67,Male,39508,97334,547,31917,8,7.22,Unemployed,High School,Single,1,Own,27,2,1,1,0,100,2.68
+427,42,Female,62287,19133,578,22984,21,8.54,Employed,PhD,Single,1,Own,33,8,1,0,1,182,5.88
+428,41,Male,98916,15939,553,18603,25,12.91,Unemployed,Master,Widowed,4,Rent,22,9,0,0,0,198,3.54
+429,30,Male,46984,1781,480,29845,9,10.46,Unemployed,Bachelor,Single,1,Mortgage,29,3,1,0,0,11,3.91
+430,24,Male,130169,57700,808,46826,1,10,Unemployed,Master,Single,1,Own,19,3,1,0,1,177,4.16
+431,53,Female,28125,28624,625,39954,6,4.28,Unemployed,High School,Married,2,Mortgage,19,6,1,1,1,33,1.57
+432,62,Female,56059,7823,656,2087,23,8.67,Employed,High School,Married,1,Rent,6,1,0,1,1,77,9.87
+433,37,Male,89569,19489,690,43071,19,11.3,Self-Employed,Master,Widowed,0,Rent,45,6,1,0,1,203,1.28
+434,18,Male,123409,40961,384,21531,23,14.65,Unemployed,High School,Single,3,Mortgage,19,3,1,0,1,93,6.96
+435,25,Female,37087,30118,616,26712,11,4.62,Employed,Bachelor,Married,2,Own,13,4,0,1,0,216,4.34
+436,63,Female,126437,82816,511,10850,11,2.12,Self-Employed,PhD,Married,1,Mortgage,26,9,1,1,1,58,6.81
+437,33,Female,135262,23263,814,19316,23,2.98,Self-Employed,Master,Divorced,0,Mortgage,22,3,0,1,0,41,4.21
+438,31,Male,25704,14565,683,20788,13,6.89,Self-Employed,Bachelor,Single,3,Rent,21,1,0,1,0,179,7.06
+439,29,Female,80576,21354,641,29932,11,12.67,Unemployed,Bachelor,Married,2,Own,36,3,1,0,0,138,7.56
+440,68,Male,93384,43951,337,44722,18,2.09,Unemployed,High School,Widowed,0,Mortgage,2,7,1,1,0,111,7.21
+441,40,Female,107128,92179,810,49117,23,7.94,Self-Employed,Bachelor,Divorced,1,Own,47,7,0,0,1,44,2.03
+442,32,Male,131279,24648,719,7337,15,6.28,Self-Employed,Master,Divorced,4,Rent,44,5,0,0,1,208,6.91
+443,45,Female,92460,51729,468,34717,1,2.68,Self-Employed,Bachelor,Single,4,Own,30,1,1,0,0,86,3.52
+444,51,Female,47208,42971,642,21384,21,7.85,Self-Employed,PhD,Single,2,Rent,27,8,0,1,0,23,1.26
+445,19,Female,138516,19658,605,5954,25,5.31,Self-Employed,Bachelor,Divorced,0,Own,7,8,0,0,1,140,4.73
+446,49,Female,149612,22253,841,9924,7,6.57,Self-Employed,Bachelor,Widowed,3,Mortgage,20,2,1,1,0,247,4.9
+447,40,Female,105150,65166,836,37385,23,11.17,Employed,PhD,Single,0,Rent,31,3,0,0,1,289,5.2
+448,39,Male,86024,49563,411,42137,27,8.78,Self-Employed,Bachelor,Single,4,Mortgage,23,4,0,1,0,74,7.34
+449,68,Female,59882,27390,710,44118,13,3.62,Unemployed,Bachelor,Divorced,2,Rent,13,1,0,0,1,147,3.78
+450,42,Female,45923,89664,505,18912,12,14.5,Unemployed,High School,Divorced,1,Own,17,4,0,0,0,278,3.84
+451,39,Female,146561,52578,484,47611,18,10.27,Unemployed,Master,Single,0,Own,4,5,0,1,0,237,1.54
+452,39,Male,134044,80025,681,40113,24,11.96,Self-Employed,High School,Married,4,Rent,14,3,0,1,0,210,7.18
+453,66,Female,121477,33658,795,20642,19,3.03,Unemployed,Master,Single,3,Rent,20,2,1,0,1,151,6.11
+454,69,Male,49165,7852,678,37892,15,2.61,Employed,PhD,Married,2,Rent,13,6,0,0,1,109,4.14
+455,59,Female,87203,95986,346,9348,8,2.25,Self-Employed,PhD,Divorced,1,Own,3,8,1,1,1,147,7.35
+456,23,Female,111749,3551,827,49817,19,4.45,Unemployed,PhD,Married,0,Rent,26,7,1,0,0,177,5.84
+457,32,Male,24114,72947,803,13636,10,7.39,Employed,Master,Widowed,3,Rent,26,1,1,1,0,108,5.22
+458,60,Female,84965,62001,321,1089,7,14.17,Employed,Master,Divorced,1,Mortgage,18,4,1,1,0,75,5.6
+459,54,Male,56321,50159,512,21408,18,7.94,Unemployed,Master,Single,4,Rent,32,3,1,0,0,56,6.73
+460,50,Male,93297,52707,609,7009,16,5.77,Employed,PhD,Single,4,Mortgage,14,6,1,1,0,240,6.94
+461,25,Female,116652,34243,571,40961,20,9.31,Unemployed,Master,Divorced,3,Mortgage,47,9,1,0,0,155,3.6
+462,61,Male,119304,22800,501,42722,27,3.46,Employed,Bachelor,Divorced,4,Mortgage,3,9,1,1,1,216,2.27
+463,61,Female,133942,76939,331,49723,6,9.92,Self-Employed,High School,Widowed,2,Own,1,7,0,1,1,155,2.41
+464,22,Female,45426,58828,742,44976,27,9.39,Self-Employed,PhD,Divorced,3,Mortgage,26,9,1,0,1,161,6.75
+465,56,Male,37772,8239,461,46210,9,12.3,Self-Employed,High School,Single,4,Rent,24,8,1,1,0,288,8.86
+466,21,Male,123754,7710,553,49920,21,14.83,Self-Employed,Bachelor,Widowed,0,Own,49,5,1,0,1,149,4.69
+467,23,Male,23712,22384,820,10468,13,5.26,Self-Employed,Master,Single,4,Own,35,9,0,1,0,160,2.53
+468,62,Male,21367,22038,779,2962,25,8.63,Unemployed,High School,Married,2,Own,14,7,1,1,0,30,7.81
+469,49,Female,126493,41846,309,9960,21,13.82,Self-Employed,Bachelor,Divorced,1,Own,3,5,0,1,1,263,8.49
+470,69,Female,127317,88983,804,34283,26,12.21,Self-Employed,Bachelor,Married,1,Own,13,8,1,1,0,73,8.93
+471,47,Male,135142,68821,735,9775,8,8.34,Self-Employed,High School,Single,4,Own,47,7,1,0,0,227,6.46
+472,64,Female,111736,38991,410,29177,16,14.29,Self-Employed,PhD,Married,1,Own,14,9,0,1,0,81,8.75
+473,52,Female,71924,80057,452,13769,13,2.74,Employed,High School,Married,4,Mortgage,21,1,1,1,0,171,1.14
+474,57,Female,23726,7971,401,906,13,14.1,Self-Employed,PhD,Single,2,Rent,26,9,0,1,0,139,1.97
+475,69,Female,109152,30139,490,7884,17,2.66,Self-Employed,Master,Single,1,Rent,3,7,0,0,1,78,1.83
+476,33,Male,47723,86445,380,23053,23,9.11,Unemployed,PhD,Divorced,0,Mortgage,40,1,1,0,1,234,7.41
+477,30,Male,146969,78067,788,24866,20,13.58,Employed,Master,Married,4,Mortgage,4,1,1,0,0,255,1.63
+478,67,Female,123110,81257,387,44536,5,5.42,Unemployed,High School,Widowed,1,Own,36,5,0,0,0,77,5.47
+479,59,Male,120494,85742,493,17869,22,8.14,Self-Employed,Master,Widowed,2,Own,43,8,0,1,1,116,5.25
+480,47,Male,29108,38711,403,12295,21,6.22,Unemployed,Bachelor,Single,2,Mortgage,1,9,1,1,1,118,3.8
+481,36,Male,97714,7530,395,4985,28,14.38,Unemployed,Master,Single,0,Own,40,6,1,1,1,112,8.83
+482,34,Female,55643,12116,722,42169,17,12.71,Self-Employed,PhD,Married,2,Rent,47,8,1,0,0,150,2.53
+483,36,Female,51324,66794,497,3118,28,11.22,Employed,PhD,Single,2,Rent,33,6,0,0,1,74,4.17
+484,45,Female,123896,1282,300,30643,9,9.64,Employed,PhD,Widowed,1,Own,7,6,1,1,1,143,7.97
+485,43,Male,103360,80473,706,29925,2,12.67,Unemployed,Master,Divorced,4,Own,11,4,0,1,0,208,1.27
+486,54,Female,130896,2898,677,23173,25,7.1,Self-Employed,PhD,Divorced,3,Own,27,5,1,1,0,164,7.06
+487,43,Female,28927,5135,466,10103,26,7.82,Unemployed,PhD,Married,2,Rent,14,2,0,0,1,88,8.35
+488,40,Male,113680,7629,808,40196,18,11.49,Unemployed,Bachelor,Divorced,2,Own,22,3,0,1,0,259,9.39
+489,26,Female,116546,86120,612,5868,9,6.65,Unemployed,Master,Single,3,Mortgage,16,3,1,1,1,96,8.89
+490,29,Female,42443,90087,717,5121,6,2.83,Self-Employed,Bachelor,Single,2,Own,46,5,0,0,1,250,3.87
+491,18,Male,99973,66031,776,15219,11,2.97,Self-Employed,PhD,Single,1,Mortgage,12,5,0,0,0,97,6.28
+492,18,Male,83449,34380,372,29727,25,3.5,Employed,PhD,Single,1,Own,49,6,0,1,0,181,1.7
+493,64,Male,129834,18071,440,44394,29,13.31,Self-Employed,PhD,Married,3,Own,46,5,0,0,1,26,3.32
+494,51,Female,125314,21074,561,8066,6,8.14,Unemployed,Master,Divorced,2,Rent,10,6,0,1,0,232,1.85
+495,49,Female,96743,91724,639,12806,6,11.27,Unemployed,High School,Widowed,2,Mortgage,24,8,1,1,0,228,3.84
+496,65,Female,141805,68843,607,24542,13,7.11,Employed,PhD,Divorced,4,Mortgage,46,2,1,1,0,243,8.88
+497,42,Male,80233,40901,544,15586,11,5.36,Self-Employed,PhD,Single,2,Mortgage,18,4,0,1,0,257,4.12
+498,57,Male,45537,12205,814,17887,14,6.51,Unemployed,PhD,Widowed,1,Rent,22,6,1,0,0,61,6.06
+499,62,Female,121293,56661,636,27542,2,12.32,Employed,PhD,Married,0,Mortgage,9,5,0,0,0,24,4.9
+500,18,Female,97576,6906,375,24388,8,10.13,Employed,Master,Single,0,Rent,17,1,0,0,0,121,5.13
+501,33,Male,127522,3591,474,27014,3,14.19,Unemployed,High School,Single,0,Own,38,9,1,1,1,193,9.73
+502,56,Male,42612,63987,408,18823,23,10.84,Unemployed,High School,Widowed,0,Own,40,3,0,1,0,16,3.67
+503,22,Male,113977,64370,482,18519,21,9.41,Self-Employed,High School,Married,2,Mortgage,13,2,0,1,1,60,6.65
+504,39,Male,26471,81685,491,10390,3,9.93,Employed,PhD,Widowed,2,Own,37,9,0,0,0,250,4.78
+505,46,Female,55631,55400,364,41363,1,14.25,Unemployed,PhD,Married,4,Own,6,7,1,0,1,254,1.55
+506,20,Male,148449,26150,773,45987,24,12.25,Employed,High School,Single,2,Mortgage,21,5,1,1,0,195,5.4
+507,29,Female,128997,32852,399,10783,19,2.31,Self-Employed,High School,Divorced,0,Own,36,6,0,0,1,296,8.32
+508,43,Female,112059,43870,843,18779,18,8.94,Unemployed,PhD,Single,3,Mortgage,7,4,0,0,0,101,1.89
+509,33,Female,51348,53756,427,47499,17,10.95,Self-Employed,PhD,Divorced,3,Mortgage,36,1,0,0,1,115,1.63
+510,68,Male,84732,57481,751,23408,20,11.73,Employed,Bachelor,Divorced,1,Own,25,4,0,0,0,22,2.38
+511,54,Male,21177,2283,668,47966,29,4.77,Self-Employed,Bachelor,Married,1,Own,11,9,0,1,0,155,7.88
+512,39,Male,24760,34691,342,38452,24,13.27,Self-Employed,Bachelor,Widowed,2,Own,44,1,1,0,1,128,7.52
+513,46,Male,52779,2125,718,35670,13,14.43,Employed,High School,Married,3,Own,14,3,1,1,1,212,6.09
+514,31,Female,41636,68065,787,38163,3,5.08,Self-Employed,Master,Single,0,Own,45,5,1,0,0,150,5.21
+515,45,Male,101889,27170,377,44672,1,13.47,Employed,PhD,Widowed,0,Rent,29,7,1,1,1,124,8.99
+516,22,Male,73551,9438,569,48429,4,3.26,Unemployed,Bachelor,Divorced,0,Own,10,9,0,1,1,161,7.9
+517,64,Female,31556,21095,614,9843,25,2.72,Employed,Master,Divorced,2,Rent,48,6,0,0,0,66,8.31
+518,66,Male,47598,17154,467,11137,13,3.68,Employed,PhD,Single,2,Mortgage,5,3,1,1,1,166,8.32
+519,47,Female,31563,9004,638,35224,17,2.75,Unemployed,Master,Widowed,4,Own,8,7,1,1,0,142,6.78
+520,63,Female,66819,10752,492,40291,28,12.99,Employed,High School,Single,0,Own,46,4,0,0,1,172,5.12
+521,69,Female,129326,56426,752,29634,11,2.77,Unemployed,High School,Single,0,Own,5,3,1,1,0,284,8.78
+522,22,Female,93770,27819,582,47330,2,5.53,Unemployed,High School,Married,2,Mortgage,24,7,0,0,1,192,9.33
+523,29,Female,111055,93051,635,47601,25,3.35,Employed,Bachelor,Single,2,Rent,40,7,0,1,0,86,1.21
+524,33,Female,46966,25217,689,4407,16,5.84,Self-Employed,PhD,Widowed,4,Rent,26,4,0,0,0,53,1.46
+525,43,Female,140133,89708,824,34075,2,3.18,Self-Employed,High School,Single,4,Own,6,7,1,0,1,215,9.63
+526,43,Female,101709,33994,539,47299,29,10.68,Unemployed,Bachelor,Widowed,1,Own,16,2,1,0,1,47,3.49
+527,65,Male,79889,16036,782,5327,19,3.73,Self-Employed,Bachelor,Divorced,3,Own,36,1,1,0,0,31,8.86
+528,38,Male,46987,78275,757,31107,23,13.07,Self-Employed,Bachelor,Single,0,Own,12,2,1,0,0,82,4.5
+529,56,Male,98714,98756,388,14199,19,12.62,Employed,Bachelor,Widowed,0,Mortgage,11,4,1,1,1,250,2.07
+530,53,Male,124874,50416,394,37792,25,2.18,Unemployed,High School,Divorced,4,Own,3,8,0,1,1,163,1.72
+531,50,Female,78348,10587,751,48461,16,13.64,Unemployed,Bachelor,Widowed,4,Mortgage,44,3,1,0,1,246,2.41
+532,47,Male,44596,96665,727,26383,22,2.38,Employed,High School,Divorced,1,Own,37,6,0,1,1,14,3.25
+533,54,Female,53174,1645,450,49491,19,5.12,Self-Employed,High School,Married,3,Rent,6,6,0,1,1,230,5.4
+534,40,Male,84106,31930,813,5813,9,2.42,Unemployed,Bachelor,Single,1,Rent,19,9,0,1,1,95,7.31
+535,27,Male,127510,82835,675,14098,1,6.37,Self-Employed,High School,Single,3,Own,18,9,1,0,0,186,9.88
+536,22,Male,89967,31090,321,46326,10,8.68,Unemployed,PhD,Divorced,0,Own,16,4,1,0,1,268,4.97
+537,53,Female,79182,88489,612,29307,19,12.36,Unemployed,PhD,Married,1,Mortgage,23,9,1,1,1,229,5.66
+538,51,Male,113300,53142,818,5387,1,6.39,Unemployed,Master,Widowed,4,Own,43,6,1,0,1,47,5.7
+539,69,Female,107163,27475,505,4354,2,11.17,Unemployed,PhD,Married,1,Own,37,2,1,0,1,151,5.85
+540,48,Female,59310,19888,674,45726,16,4.44,Self-Employed,High School,Widowed,1,Own,9,6,1,1,0,244,5.66
+541,27,Male,76088,44732,750,15036,12,11.76,Self-Employed,High School,Widowed,0,Rent,3,2,1,0,0,212,1.08
+542,36,Male,148803,82623,478,4058,8,5.07,Self-Employed,PhD,Single,4,Mortgage,8,8,1,0,0,181,1.02
+543,49,Male,28906,47305,509,10272,23,3.87,Self-Employed,Bachelor,Divorced,4,Rent,38,4,0,0,0,134,1.88
+544,18,Female,56914,47037,799,36843,18,4.41,Employed,Bachelor,Single,2,Mortgage,4,5,1,0,1,74,1.91
+545,22,Male,130350,10346,763,35686,2,4.37,Unemployed,High School,Single,2,Rent,12,8,0,0,0,290,7.34
+546,62,Female,65379,1587,423,37466,25,8.67,Unemployed,Bachelor,Single,2,Own,44,8,0,1,1,281,2.84
+547,21,Female,98612,13763,412,34269,29,12.98,Unemployed,Master,Widowed,0,Rent,31,6,0,0,1,253,9.05
+548,33,Male,134828,60165,311,40387,13,3.03,Employed,Master,Single,1,Rent,25,4,0,0,0,24,9.36
+549,41,Male,147445,70615,425,19729,6,11.19,Self-Employed,PhD,Widowed,4,Mortgage,16,1,1,1,0,235,9.78
+550,33,Female,57650,37116,630,10173,21,10.51,Unemployed,PhD,Divorced,4,Mortgage,42,7,1,1,1,140,9.45
+551,19,Female,66881,86751,582,28377,26,13.34,Self-Employed,Bachelor,Widowed,1,Rent,14,8,0,0,0,204,3.45
+552,66,Female,66413,92353,439,32101,6,5.17,Self-Employed,High School,Widowed,4,Mortgage,13,9,0,1,0,218,5.59
+553,45,Male,26012,91301,700,38584,9,7.85,Employed,PhD,Married,1,Mortgage,41,2,0,0,1,122,2.58
+554,49,Female,70115,96648,396,16744,16,14.04,Employed,Master,Single,0,Mortgage,7,1,1,1,1,253,8.26
+555,44,Male,27151,26556,816,27856,11,10.58,Self-Employed,PhD,Single,0,Mortgage,12,4,0,0,1,175,9
+556,37,Female,77716,60042,368,17306,7,7.05,Unemployed,PhD,Single,0,Mortgage,37,5,0,1,1,200,8.66
+557,41,Female,113747,19099,417,23599,10,3.71,Unemployed,Master,Single,1,Rent,4,1,1,0,1,266,4.9
+558,29,Male,112653,46096,358,45141,10,5.41,Employed,High School,Married,1,Mortgage,2,5,0,1,0,227,7.83
+559,67,Female,56378,72986,332,37534,25,9.56,Employed,PhD,Married,3,Own,35,6,1,0,1,284,1.88
+560,52,Male,62652,14230,617,40817,20,11.34,Employed,PhD,Married,4,Rent,44,3,1,0,1,61,1.36
+561,50,Male,92430,30009,349,19594,18,3.62,Employed,PhD,Married,4,Rent,3,7,0,0,1,167,7.78
+562,50,Female,33467,71969,788,11089,28,9.79,Employed,Bachelor,Single,3,Rent,4,6,0,1,0,64,4.83
+563,68,Male,51010,34866,318,2157,24,9.15,Employed,PhD,Widowed,3,Mortgage,38,4,0,1,1,23,9.96
+564,60,Male,148647,85246,496,33264,20,8.68,Employed,Master,Divorced,0,Own,12,3,1,0,1,278,1.88
+565,54,Female,141999,77975,749,40031,29,10.97,Unemployed,High School,Married,3,Mortgage,19,5,1,0,0,99,8.7
+566,29,Male,134793,42855,751,3664,9,12.89,Employed,High School,Widowed,1,Rent,10,3,1,0,1,36,5.32
+567,20,Male,74691,82557,588,28042,15,6.2,Employed,Master,Married,2,Rent,1,9,0,0,1,98,8.44
+568,18,Male,84157,7416,440,18937,4,13.56,Unemployed,Bachelor,Single,1,Rent,17,9,0,1,1,50,8.35
+569,50,Female,128177,73516,383,41747,8,4.09,Unemployed,Master,Single,3,Rent,16,6,0,1,0,277,9.24
+570,57,Male,32289,56915,690,39005,9,4.25,Self-Employed,High School,Widowed,4,Mortgage,9,6,0,1,0,147,3.68
+571,27,Female,64976,19058,514,20101,13,5.47,Employed,Master,Widowed,1,Own,9,4,0,0,1,15,9.55
+572,60,Female,63596,77637,825,28930,9,3.55,Employed,Bachelor,Widowed,4,Own,9,4,0,0,1,251,2.37
+573,61,Male,43171,41718,514,6509,26,4.99,Employed,High School,Single,1,Rent,12,2,1,1,1,171,1.74
+574,46,Male,120441,33602,702,5052,4,3.38,Employed,Bachelor,Single,4,Own,41,4,1,1,0,189,4.88
+575,30,Male,146296,75658,427,9917,17,12.68,Self-Employed,Master,Divorced,1,Rent,15,8,1,1,0,15,8.45
+576,29,Female,106365,79112,776,42489,16,3.81,Unemployed,PhD,Widowed,4,Rent,2,2,0,1,0,280,5.26
+577,48,Male,138218,59067,703,3171,15,11.71,Unemployed,Master,Divorced,2,Own,11,9,1,0,0,281,8.46
+578,63,Male,119590,28516,328,7019,3,2.62,Employed,Bachelor,Married,0,Rent,11,1,1,0,0,165,7.57
+579,19,Male,134014,88969,637,37230,25,14.33,Employed,Master,Divorced,1,Own,8,2,1,0,0,94,2.88
+580,68,Male,64139,2089,660,13234,20,11.25,Employed,PhD,Married,2,Rent,32,2,0,1,1,209,9.54
+581,67,Male,68713,38346,691,46390,5,2.09,Self-Employed,Bachelor,Married,0,Own,6,6,0,0,0,19,1.55
+582,52,Female,49734,75663,517,4222,23,11.93,Self-Employed,Master,Divorced,1,Rent,20,7,1,1,1,147,9.08
+583,40,Female,92588,11487,501,5406,5,8.68,Unemployed,Bachelor,Widowed,2,Own,39,3,0,1,0,251,3.74
+584,34,Male,83646,1155,316,30596,20,12.13,Employed,Bachelor,Married,2,Rent,35,9,0,1,1,210,5.5
+585,43,Male,23654,68494,621,40531,15,8.79,Employed,High School,Widowed,2,Rent,8,5,0,1,0,165,4.8
+586,25,Male,109022,77229,817,14199,18,10.33,Employed,High School,Single,3,Rent,49,5,0,1,1,284,2.55
+587,46,Male,38743,39547,624,21938,15,12.22,Employed,Bachelor,Married,4,Own,43,4,1,0,1,234,4.22
+588,43,Female,68368,29795,711,44356,2,7.27,Self-Employed,Master,Single,0,Mortgage,34,9,0,0,1,77,2.74
+589,27,Male,110025,56296,617,34076,29,2.04,Unemployed,Master,Divorced,4,Rent,19,8,1,0,0,193,2.83
+590,43,Female,94172,22447,381,42438,13,13.05,Unemployed,Master,Widowed,4,Rent,7,4,1,1,0,204,2.68
+591,51,Female,26441,37598,773,49528,4,6.95,Self-Employed,PhD,Divorced,4,Own,31,4,0,0,0,51,5.4
+592,68,Male,139735,42814,767,32747,10,8.45,Employed,Bachelor,Married,2,Rent,18,2,0,1,1,160,8.18
+593,58,Female,44611,91751,724,43961,13,2.1,Unemployed,Bachelor,Single,4,Rent,40,9,0,0,1,93,6.12
+594,24,Female,139891,76330,503,28438,10,8.4,Unemployed,PhD,Married,3,Rent,14,3,1,1,1,143,9.04
+595,21,Female,127971,99745,686,40969,29,14.82,Self-Employed,Bachelor,Divorced,1,Rent,39,4,1,1,0,39,6.73
+596,67,Female,32149,88960,397,18100,9,5.62,Employed,Bachelor,Widowed,2,Mortgage,36,7,1,0,0,18,7.2
+597,62,Male,120102,64278,644,20935,8,7.14,Unemployed,PhD,Widowed,0,Mortgage,17,8,1,1,1,179,7.01
+598,28,Male,79189,56077,507,19081,3,10.93,Employed,High School,Married,1,Rent,37,8,1,0,0,299,5.05
+599,46,Female,127904,72906,813,14691,16,12.59,Unemployed,Bachelor,Married,1,Rent,44,4,1,0,0,177,7.2
+600,53,Male,41675,10528,465,19690,14,7.43,Self-Employed,PhD,Single,1,Rent,9,7,1,0,0,154,1.63
+601,42,Male,91031,94812,321,27886,9,6.03,Employed,Master,Divorced,4,Mortgage,20,1,0,1,0,237,8.74
+602,38,Male,62668,51100,453,32221,21,14.19,Self-Employed,High School,Married,4,Mortgage,45,6,1,1,1,85,8
+603,53,Male,33673,9179,738,14204,11,10.8,Unemployed,Master,Single,2,Own,28,6,1,1,0,232,3.21
+604,27,Male,149582,49781,594,2623,3,3.55,Self-Employed,Bachelor,Married,4,Own,20,6,1,1,0,186,7.91
+605,54,Female,96666,56267,518,25674,5,2.9,Self-Employed,High School,Widowed,4,Rent,41,2,1,0,1,198,1.11
+606,26,Male,108204,83379,794,44801,29,8.29,Self-Employed,PhD,Single,4,Rent,36,8,0,1,1,55,2.96
+607,41,Male,100758,24952,529,49876,10,4.86,Unemployed,Bachelor,Single,2,Mortgage,27,5,1,0,0,26,1.59
+608,52,Male,85429,54798,319,47716,13,5.3,Employed,PhD,Married,2,Rent,8,5,1,0,0,75,8.02
+609,66,Male,43669,99696,447,15086,4,13.41,Self-Employed,High School,Divorced,3,Rent,32,2,0,1,0,270,7.8
+610,52,Female,54068,51939,407,32476,24,3.16,Employed,Master,Widowed,3,Mortgage,1,4,0,1,0,132,8.32
+611,65,Female,108789,30516,702,25916,13,11.3,Unemployed,Bachelor,Divorced,3,Mortgage,17,9,1,0,1,240,1.04
+612,53,Female,29435,57526,782,2314,12,5.52,Employed,Bachelor,Single,3,Mortgage,9,9,1,1,1,134,5.51
+613,35,Female,114088,11449,666,13501,5,11.88,Self-Employed,PhD,Divorced,1,Mortgage,20,6,1,0,1,121,7.34
+614,66,Male,72249,51290,713,17008,10,11.39,Self-Employed,High School,Single,1,Own,45,9,1,1,0,281,2.4
+615,56,Female,57384,87661,608,20130,28,2.1,Self-Employed,PhD,Divorced,3,Mortgage,32,4,1,1,0,90,6.85
+616,49,Male,148782,73954,433,13880,24,8.62,Self-Employed,High School,Married,3,Mortgage,2,1,1,0,1,255,1.76
+617,41,Male,101929,23746,582,48674,9,3.81,Self-Employed,Bachelor,Divorced,0,Rent,32,2,0,0,0,224,2.63
+618,40,Male,147959,68990,372,36199,20,13.26,Self-Employed,High School,Single,1,Rent,45,1,0,0,1,244,5.28
+619,49,Male,96153,59810,780,46835,7,13.33,Unemployed,Bachelor,Widowed,0,Rent,9,8,1,1,1,91,6.88
+620,54,Male,124056,84297,651,47306,2,7.44,Unemployed,High School,Widowed,0,Own,30,9,1,1,1,85,2.31
+621,29,Female,95388,16223,625,12817,22,7.78,Unemployed,Master,Widowed,4,Mortgage,20,6,1,1,1,24,2.67
+622,66,Female,51401,73237,742,36239,24,5.94,Employed,High School,Single,2,Mortgage,38,2,0,0,1,229,2.84
+623,30,Female,145511,3597,399,35285,28,11.32,Employed,Master,Divorced,1,Own,1,6,1,0,1,239,3.15
+624,40,Female,91831,66677,358,32480,23,6.66,Unemployed,High School,Widowed,3,Mortgage,5,9,0,1,1,274,3.04
+625,42,Male,139503,3659,807,24299,7,5.48,Employed,High School,Widowed,3,Rent,35,3,0,0,0,273,4.56
+626,52,Female,135760,87516,557,35683,8,7.62,Employed,PhD,Widowed,2,Own,36,9,1,1,1,119,6.88
+627,58,Male,121529,75567,712,29666,7,3.19,Self-Employed,PhD,Married,1,Mortgage,1,2,0,0,1,209,4.94
+628,47,Female,147834,16037,751,19980,21,11.71,Self-Employed,Bachelor,Single,3,Own,14,5,1,1,0,235,7.98
+629,34,Male,54084,47738,364,2109,23,2.16,Employed,PhD,Single,3,Own,9,2,0,1,1,194,7.47
+630,66,Male,140387,72678,453,1217,29,10.38,Employed,High School,Single,4,Mortgage,30,7,1,1,0,40,2.14
+631,37,Female,130641,13109,565,20445,14,4.38,Unemployed,PhD,Single,0,Rent,24,9,1,0,1,111,1.44
+632,65,Male,125111,23010,378,26092,26,5.02,Employed,High School,Single,3,Mortgage,4,7,0,0,0,268,8.9
+633,42,Male,75826,9787,614,28641,19,10.26,Self-Employed,Master,Married,1,Mortgage,14,5,0,1,0,108,1.72
+634,39,Female,56451,9472,547,30509,5,14.91,Employed,High School,Divorced,2,Rent,25,4,0,1,0,294,2.34
+635,30,Male,27227,24383,713,45930,23,12.11,Unemployed,Bachelor,Married,4,Mortgage,4,4,1,1,1,275,1.2
+636,36,Female,51910,62709,324,7282,25,4.94,Self-Employed,Master,Widowed,1,Mortgage,25,8,0,1,0,149,6.66
+637,66,Female,56041,70785,583,27036,18,4.29,Self-Employed,Bachelor,Married,4,Mortgage,10,1,0,1,1,295,6.24
+638,53,Female,108920,35518,748,34316,20,13.26,Self-Employed,Bachelor,Single,0,Own,35,5,1,1,1,225,9.88
+639,29,Male,85681,54909,600,26433,12,7.77,Self-Employed,Bachelor,Married,3,Own,7,2,1,0,1,41,8.98
+640,58,Male,123314,19351,367,12118,23,3.78,Employed,PhD,Single,1,Own,42,9,0,0,1,97,4.7
+641,36,Male,101571,70624,306,8807,17,13.21,Unemployed,Bachelor,Married,2,Mortgage,13,7,0,0,1,72,4.34
+642,29,Female,85481,54330,436,27171,13,12.61,Employed,Master,Single,0,Rent,4,8,0,0,1,288,3.67
+643,26,Male,88576,16282,463,41173,2,14.79,Employed,High School,Widowed,0,Own,43,6,1,1,1,83,2.37
+644,24,Female,127958,85866,382,43261,25,13.83,Self-Employed,Bachelor,Single,4,Rent,36,9,1,1,0,133,2.24
+645,45,Female,149265,22778,719,10838,13,13.07,Unemployed,Master,Married,0,Mortgage,14,6,0,1,1,278,2.19
+646,31,Male,147556,25264,372,38846,26,2.68,Self-Employed,Bachelor,Widowed,1,Own,18,7,1,0,1,294,2.03
+647,48,Female,84174,60675,536,47102,7,3.36,Employed,High School,Married,4,Mortgage,8,7,0,0,0,130,3.16
+648,69,Male,46160,6075,345,7048,28,9.4,Employed,Master,Widowed,0,Rent,32,9,0,1,1,221,3.76
+649,36,Male,135170,76948,561,40649,10,8.91,Self-Employed,Master,Divorced,2,Own,27,8,1,0,0,157,9.65
+650,64,Male,137867,49454,475,21664,23,7.95,Employed,High School,Divorced,1,Own,42,1,0,0,0,87,6.21
+651,33,Male,37633,29365,465,28026,6,7.16,Employed,Master,Divorced,2,Own,37,4,0,1,1,23,9.89
+652,22,Male,114880,73766,669,31722,3,7.61,Self-Employed,High School,Married,2,Own,23,7,1,1,1,145,4.35
+653,52,Female,37014,49200,353,20676,26,9.4,Employed,Master,Married,4,Rent,7,8,0,1,0,289,5.12
+654,29,Female,100532,12002,718,3441,3,2.03,Unemployed,Master,Widowed,3,Own,12,7,0,0,1,88,3.92
+655,42,Female,69104,14947,806,6195,18,5.39,Self-Employed,High School,Widowed,4,Mortgage,25,3,1,1,0,252,2.65
+656,69,Male,61621,80222,640,39669,11,8.74,Unemployed,High School,Widowed,1,Own,3,4,0,1,0,202,2.29
+657,38,Male,97231,95840,426,48447,22,11.39,Employed,Master,Widowed,1,Rent,26,7,0,1,1,251,9.51
+658,53,Male,88388,79610,708,47724,20,4.26,Employed,Master,Single,4,Own,4,8,1,0,0,60,9.88
+659,40,Female,36014,53142,666,46365,5,9.11,Self-Employed,High School,Divorced,3,Rent,42,7,1,0,1,241,1.4
+660,33,Male,112578,57307,570,26053,19,11.29,Employed,PhD,Single,4,Rent,36,6,1,1,1,268,2.35
+661,56,Female,53755,5493,678,39465,22,7.78,Self-Employed,High School,Single,1,Mortgage,15,9,0,1,0,227,4.81
+662,62,Female,60390,51085,372,38718,27,2.35,Self-Employed,Master,Single,3,Own,32,9,1,0,0,215,2.68
+663,59,Male,43711,35228,547,25859,28,7.84,Self-Employed,Master,Single,1,Own,29,7,0,0,1,129,4.27
+664,56,Male,111658,80676,342,25316,19,5.85,Self-Employed,Master,Divorced,3,Own,10,8,1,1,1,89,2.16
+665,31,Female,77993,52875,676,8878,15,14.09,Self-Employed,High School,Single,3,Mortgage,21,6,0,0,1,51,5.11
+666,48,Male,94696,32655,340,2381,16,3.62,Unemployed,Master,Widowed,4,Mortgage,16,1,0,1,0,30,3.45
+667,22,Female,47213,44472,469,40067,24,10.48,Self-Employed,PhD,Married,4,Rent,47,1,1,1,1,19,4.17
+668,52,Male,135788,50437,511,47865,9,2.69,Unemployed,Bachelor,Widowed,4,Rent,19,6,0,0,0,162,1.85
+669,40,Male,124956,50416,792,14175,4,7.8,Employed,PhD,Married,3,Rent,29,2,0,1,0,95,4.85
+670,46,Female,77784,60711,338,5086,15,9.2,Self-Employed,High School,Widowed,3,Mortgage,18,8,1,1,0,122,9.85
+671,60,Male,27421,7816,668,25506,25,5.87,Employed,Master,Widowed,1,Mortgage,44,1,0,0,1,198,3.96
+672,28,Female,106936,78175,450,41698,12,7.92,Self-Employed,High School,Married,2,Mortgage,16,2,0,1,0,121,8.89
+673,35,Male,119073,65307,410,23331,23,4.13,Unemployed,Bachelor,Divorced,4,Rent,1,8,0,0,1,184,8.59
+674,64,Female,37727,47733,779,35613,3,5.95,Unemployed,High School,Single,1,Mortgage,48,6,1,1,0,13,9.57
+675,29,Female,132418,96028,735,16959,23,10.07,Unemployed,Master,Widowed,1,Rent,2,2,1,1,1,231,8.11
+676,26,Male,24358,12240,346,32943,14,5.92,Employed,Bachelor,Divorced,0,Rent,15,2,1,0,1,230,6.94
+677,27,Female,85108,99234,665,42816,17,13.7,Self-Employed,Bachelor,Single,4,Own,39,7,1,0,0,180,8.71
+678,61,Male,146609,93493,368,31095,19,10.17,Employed,Master,Divorced,1,Own,28,5,1,0,1,222,1.68
+679,34,Male,114018,99344,598,6377,6,7.7,Unemployed,Master,Divorced,0,Own,1,5,1,0,0,262,5.17
+680,55,Male,144457,72363,595,40053,4,2.5,Employed,Master,Single,4,Rent,5,8,1,0,0,133,9.9
+681,24,Female,52117,33762,502,49101,7,8.49,Unemployed,High School,Widowed,3,Own,42,7,1,0,0,137,7.93
+682,63,Female,108700,9259,360,5422,19,11.94,Unemployed,PhD,Divorced,0,Own,22,9,0,1,0,222,9.66
+683,30,Male,51910,51139,613,5186,17,5.45,Unemployed,High School,Widowed,3,Own,36,4,0,0,0,121,8.02
+684,57,Male,146888,15849,460,33266,25,12.49,Self-Employed,High School,Widowed,2,Mortgage,46,4,0,1,0,94,8.87
+685,59,Female,118032,82768,630,14907,16,5.27,Self-Employed,PhD,Widowed,2,Rent,13,2,0,0,0,13,7.36
+686,26,Male,75754,90709,827,32506,15,12.71,Unemployed,Master,Single,2,Own,1,3,1,1,1,74,7.84
+687,67,Male,82438,55869,637,31922,22,3.11,Employed,Master,Married,2,Mortgage,16,1,0,1,0,129,5.71
+688,44,Female,129847,64095,603,12705,8,13.26,Employed,PhD,Widowed,1,Mortgage,41,1,0,0,0,252,9.32
+689,19,Male,49371,71910,802,21554,19,8.49,Self-Employed,PhD,Married,2,Mortgage,22,7,0,1,1,146,8.43
+690,22,Female,71501,87710,637,24027,8,5.85,Unemployed,High School,Married,1,Own,32,5,0,1,1,256,8.59
+691,46,Male,80946,24567,849,46447,18,5.45,Employed,Bachelor,Divorced,1,Mortgage,16,3,0,1,0,54,7.06
+692,54,Female,58467,36292,574,18943,28,7.62,Unemployed,PhD,Widowed,4,Rent,15,7,1,0,0,155,3.74
+693,55,Male,37625,75813,463,17024,16,14.99,Employed,High School,Widowed,1,Mortgage,46,2,1,0,0,185,1.32
+694,36,Male,53893,98136,742,28702,20,4.86,Self-Employed,Bachelor,Widowed,1,Mortgage,42,3,0,1,1,51,9.42
+695,25,Female,96329,52631,618,516,19,3.34,Unemployed,Master,Married,2,Mortgage,12,1,0,0,0,98,6.28
+696,65,Male,51007,10885,803,46642,10,9.61,Unemployed,Master,Single,1,Mortgage,1,8,0,0,1,227,3.68
+697,62,Female,111302,60659,686,17348,17,8.35,Employed,High School,Married,3,Rent,17,2,0,1,0,237,2.34
+698,18,Male,59532,55306,793,21355,13,8.81,Employed,High School,Widowed,2,Own,41,7,1,1,0,76,8.47
+699,39,Female,74253,67314,789,18711,13,10.67,Employed,PhD,Widowed,0,Rent,28,9,0,0,1,260,8.53
+700,69,Female,32323,66087,372,25595,7,5.47,Unemployed,Master,Widowed,2,Rent,7,6,1,0,0,50,8.33
+701,34,Female,131335,30165,808,39224,27,13.84,Self-Employed,High School,Married,1,Own,9,2,0,0,0,108,6.81
+702,24,Female,132356,59929,689,49741,10,7.66,Self-Employed,Master,Widowed,3,Mortgage,22,2,1,1,0,88,4.29
+703,42,Male,130944,68028,594,38083,2,3.68,Employed,Master,Divorced,2,Own,26,9,1,0,1,208,3.74
+704,62,Male,93379,96998,668,3343,4,11.65,Self-Employed,PhD,Widowed,3,Own,12,8,1,0,0,156,1.08
+705,21,Female,34210,50812,848,29801,25,10.36,Employed,Bachelor,Single,0,Rent,7,9,0,0,0,115,8.5
+706,53,Female,36456,51500,486,26960,6,6.1,Self-Employed,PhD,Divorced,0,Own,46,4,0,1,1,202,1.79
+707,23,Female,51367,80151,744,32418,24,10.08,Unemployed,High School,Widowed,4,Mortgage,47,4,1,1,1,131,6.68
+708,48,Male,74624,59643,662,29247,18,4.86,Employed,PhD,Divorced,4,Rent,15,2,0,1,0,86,5.54
+709,36,Male,30106,45900,422,16472,23,7.78,Self-Employed,PhD,Widowed,2,Mortgage,38,1,0,0,0,121,5.74
+710,61,Male,123493,43946,487,28810,6,13.69,Unemployed,Master,Single,4,Rent,21,4,1,0,1,179,9.34
+711,56,Male,88008,8851,719,23427,29,3.74,Self-Employed,PhD,Widowed,3,Mortgage,14,8,0,1,0,15,1.28
+712,44,Female,145926,17288,551,1594,25,7.03,Unemployed,High School,Divorced,4,Own,2,2,1,0,0,206,7.96
+713,27,Female,135395,73692,848,39392,23,12.67,Unemployed,Bachelor,Single,3,Own,8,8,0,0,1,107,1.47
+714,43,Female,136492,68580,634,34672,17,14.6,Self-Employed,PhD,Married,4,Own,45,1,0,0,0,239,1.34
+715,36,Male,92240,8368,391,23824,14,7.9,Self-Employed,PhD,Single,4,Mortgage,6,1,1,1,0,177,4.87
+716,56,Male,84315,86436,829,21174,24,8.59,Unemployed,Bachelor,Single,4,Rent,37,4,1,0,1,274,1.57
+717,20,Male,89249,97136,362,4482,11,9.44,Unemployed,High School,Single,1,Rent,37,7,1,0,0,17,8.1
+718,62,Female,90587,47403,811,45783,26,14.12,Unemployed,High School,Divorced,1,Rent,33,9,1,1,0,181,5.77
+719,30,Female,30756,92170,438,16290,19,13.16,Employed,PhD,Single,4,Own,41,5,0,0,0,204,1.26
+720,67,Male,88011,10168,484,12705,2,4.22,Unemployed,Master,Widowed,3,Mortgage,6,2,0,1,1,278,1.36
+721,45,Female,56378,87497,504,24838,28,7.68,Employed,PhD,Single,2,Rent,26,7,0,0,0,28,6.51
+722,37,Male,24255,50879,513,13248,3,8.03,Unemployed,Bachelor,Single,0,Mortgage,39,2,1,1,1,58,8.26
+723,45,Male,34484,60871,555,21597,11,12.26,Employed,Bachelor,Widowed,1,Rent,41,9,0,1,1,167,4.94
+724,25,Female,145703,90388,434,3592,6,9.84,Unemployed,Bachelor,Widowed,4,Own,37,9,0,0,0,75,5.99
+725,58,Male,76549,99646,387,23192,29,10.5,Unemployed,PhD,Married,0,Mortgage,14,3,0,0,1,68,8.2
+726,56,Female,54503,33174,506,24362,14,14.98,Unemployed,PhD,Single,1,Rent,37,8,1,1,0,168,6.49
+727,18,Male,144465,93491,428,25360,19,2.97,Self-Employed,High School,Divorced,2,Rent,8,4,1,0,0,280,3.02
+728,20,Female,93794,7581,302,14471,26,4.9,Self-Employed,Master,Single,3,Rent,39,3,0,1,0,130,6.52
+729,30,Female,145941,72853,420,15116,16,7.3,Unemployed,PhD,Single,4,Rent,13,1,0,0,1,263,6.65
+730,45,Female,126283,65046,684,5433,21,6.52,Employed,High School,Widowed,2,Own,13,5,1,0,0,270,7.61
+731,66,Male,120732,50678,337,5426,22,2.28,Employed,PhD,Married,1,Rent,40,4,1,0,0,144,6.59
+732,42,Male,65113,27649,640,26263,24,3.19,Unemployed,High School,Single,4,Rent,43,1,1,0,0,283,9.72
+733,50,Female,125730,89668,320,4469,7,10.85,Self-Employed,High School,Divorced,0,Own,28,8,1,1,1,65,2.78
+734,55,Female,94069,83325,541,36233,27,13.43,Employed,Master,Single,3,Rent,18,8,0,1,1,105,9.56
+735,23,Male,118117,15567,754,4819,8,8.68,Self-Employed,PhD,Divorced,1,Mortgage,19,8,1,0,0,123,5.85
+736,61,Male,25249,81404,602,42243,19,9.01,Employed,High School,Widowed,3,Mortgage,38,3,0,0,0,37,7.05
+737,62,Male,145654,90906,368,40376,20,5.32,Unemployed,Bachelor,Married,4,Rent,32,6,1,0,0,11,1.9
+738,49,Female,139979,97019,428,42409,16,11.98,Self-Employed,Bachelor,Single,2,Own,22,7,0,0,0,221,4.43
+739,62,Male,39201,62944,495,20823,22,11.77,Employed,Bachelor,Married,3,Own,2,9,0,0,1,77,7.92
+740,64,Male,145541,79002,439,16928,27,9.65,Unemployed,Master,Single,0,Own,13,5,1,1,1,137,7.36
+741,38,Female,78576,29803,743,35078,7,4.76,Unemployed,High School,Divorced,1,Rent,23,9,0,1,1,33,1.36
+742,33,Male,138562,19230,582,21450,9,3.26,Unemployed,Master,Married,0,Rent,25,6,0,0,1,262,5.92
+743,38,Male,145281,18862,611,43541,13,2.84,Self-Employed,PhD,Single,3,Mortgage,28,4,0,1,1,239,1.79
+744,28,Male,29686,44355,834,42289,1,9.71,Self-Employed,PhD,Widowed,2,Own,11,1,1,1,1,185,9.96
+745,54,Female,132413,32259,576,18793,29,12.73,Unemployed,High School,Divorced,2,Rent,33,1,1,0,1,230,9.08
+746,53,Female,73363,88445,360,6864,8,13.16,Self-Employed,Bachelor,Married,0,Rent,24,5,1,1,0,45,1.19
+747,52,Female,117543,31795,618,35849,24,8.03,Employed,High School,Single,4,Rent,2,3,0,1,0,11,8.73
+748,36,Female,20661,9770,351,1191,22,12.2,Unemployed,High School,Married,4,Own,30,5,0,1,0,283,9.27
+749,37,Female,64843,12093,452,30562,4,14.31,Unemployed,High School,Single,2,Own,17,5,0,1,0,186,4.18
+750,35,Female,115673,47571,610,1431,3,5.58,Self-Employed,Master,Divorced,0,Mortgage,40,1,0,0,0,273,7.48
+751,64,Female,80963,1193,843,46396,27,7.17,Unemployed,PhD,Widowed,0,Own,34,8,1,1,0,195,4.98
+752,58,Male,133092,18569,688,32230,3,14.11,Employed,High School,Divorced,0,Rent,38,5,0,1,1,24,6.9
+753,66,Male,62828,12190,847,14726,22,6.4,Self-Employed,High School,Married,3,Mortgage,22,5,0,1,0,288,4.06
+754,31,Female,68604,63824,476,14361,13,13.88,Self-Employed,High School,Married,4,Own,5,9,0,0,1,203,3.9
+755,32,Male,30526,43752,661,31801,8,14.75,Unemployed,Master,Single,4,Own,48,8,1,1,0,207,4.82
+756,48,Male,88910,33327,613,48743,7,10.6,Unemployed,Master,Divorced,3,Own,40,1,0,1,1,73,2.31
+757,18,Female,45592,43070,396,23266,27,12.62,Unemployed,Master,Single,1,Own,16,3,1,1,1,299,8.48
+758,20,Male,48982,86925,512,36674,1,11.74,Self-Employed,High School,Divorced,3,Rent,13,7,1,0,0,27,4.14
+759,33,Male,20207,41197,436,41607,27,11.09,Unemployed,Bachelor,Married,0,Own,26,1,0,0,0,73,4.6
+760,40,Male,120969,3261,305,18195,16,5.99,Employed,Bachelor,Single,3,Rent,31,1,0,0,0,260,9.05
+761,28,Male,137181,94905,408,41847,6,2.74,Unemployed,Bachelor,Single,0,Rent,39,5,0,0,0,26,5.47
+762,29,Male,108733,27512,846,3621,7,6.46,Unemployed,PhD,Divorced,2,Rent,48,9,0,0,0,150,5.9
+763,27,Female,118936,7716,338,18757,12,10.67,Self-Employed,High School,Widowed,0,Mortgage,23,6,1,1,1,254,9.61
+764,49,Female,144982,87795,724,28664,23,3.33,Unemployed,Bachelor,Divorced,4,Rent,48,2,1,0,0,299,8.98
+765,33,Female,145839,29933,560,25991,9,2.15,Self-Employed,Bachelor,Widowed,3,Own,12,9,1,1,1,96,2.53
+766,25,Male,88619,5378,725,23665,27,3.82,Unemployed,Bachelor,Divorced,0,Mortgage,14,6,1,0,1,208,5.26
+767,55,Female,49328,41583,386,49214,11,11.3,Employed,High School,Married,1,Own,18,5,1,0,1,170,9.74
+768,29,Male,66479,86371,764,4248,10,14.65,Employed,Bachelor,Single,2,Rent,27,5,1,0,0,149,4.35
+769,41,Male,128427,30033,375,33545,21,14.78,Self-Employed,Bachelor,Divorced,1,Own,28,3,1,1,0,85,4.34
+770,45,Male,40103,25000,770,27053,1,8.42,Self-Employed,High School,Married,1,Mortgage,18,6,1,1,0,28,2.76
+771,25,Male,59891,76868,713,44831,18,13.3,Unemployed,PhD,Divorced,1,Mortgage,16,4,1,1,0,59,2.03
+772,45,Female,30754,43604,756,30997,4,11.58,Unemployed,Master,Single,2,Own,16,2,1,0,0,241,7.66
+773,53,Female,119983,69336,584,31808,5,8.51,Employed,Bachelor,Divorced,2,Own,13,3,0,0,0,21,7.93
+774,43,Male,101437,96074,538,40060,9,9.45,Unemployed,Master,Widowed,2,Own,29,9,0,0,1,24,9.72
+775,25,Female,118540,96655,671,47186,27,3.78,Employed,PhD,Single,2,Mortgage,9,9,0,0,0,37,7.96
+776,67,Male,92982,74869,794,10874,17,14.19,Self-Employed,PhD,Widowed,1,Rent,26,6,1,0,1,259,3.19
+777,45,Female,122747,6410,344,5175,3,6.58,Unemployed,Bachelor,Married,4,Own,28,9,0,0,1,107,1.36
+778,45,Female,75922,84375,700,1670,16,7.8,Self-Employed,High School,Married,4,Rent,41,4,1,1,0,48,9.87
+779,54,Male,68231,57044,546,41949,5,10.73,Unemployed,PhD,Divorced,2,Mortgage,13,5,1,1,0,47,4.06
+780,58,Female,49301,64315,749,43985,16,6.34,Employed,Master,Widowed,3,Own,36,6,0,0,0,188,3.81
+781,53,Male,111652,97055,784,12950,3,5.31,Self-Employed,Master,Widowed,0,Own,9,9,1,1,0,106,9.15
+782,44,Female,140787,72344,317,11180,20,10.2,Self-Employed,Master,Single,3,Mortgage,47,5,0,1,0,291,6.27
+783,34,Male,146823,7796,588,10568,15,2.32,Unemployed,Master,Widowed,3,Own,14,8,1,1,0,247,2.93
+784,26,Male,82711,87716,713,35730,3,11.37,Self-Employed,PhD,Widowed,3,Rent,12,1,1,0,1,173,9
+785,50,Female,61323,55245,534,46918,20,8.68,Employed,Bachelor,Single,4,Mortgage,32,5,0,0,1,106,9.94
+786,37,Female,38752,44056,715,26706,14,9.87,Self-Employed,Bachelor,Single,0,Mortgage,38,1,0,0,1,266,1.78
+787,30,Male,117912,18709,798,787,16,10.21,Self-Employed,Master,Widowed,3,Own,3,6,0,0,1,271,8.76
+788,45,Female,102205,59557,414,22837,29,8.85,Unemployed,Bachelor,Divorced,2,Mortgage,16,7,0,1,1,267,4.51
+789,65,Female,118452,18543,533,21166,29,9.57,Self-Employed,Master,Single,4,Own,20,5,0,0,1,258,5.72
+790,46,Male,33395,38418,839,1661,17,10.89,Unemployed,Master,Single,2,Own,32,1,0,0,0,254,9.23
+791,30,Male,105957,95611,310,49781,28,11.79,Unemployed,High School,Widowed,2,Mortgage,23,6,1,0,0,260,9.76
+792,63,Female,141237,97038,505,35631,24,11.46,Self-Employed,PhD,Widowed,3,Own,17,5,1,1,0,132,3.36
+793,52,Male,76273,17724,546,25035,20,13.31,Employed,PhD,Single,2,Rent,16,6,1,1,1,178,2.92
+794,23,Male,147431,4828,426,33028,23,4.46,Unemployed,Master,Widowed,0,Rent,38,7,1,1,1,184,1.72
+795,35,Male,111878,18087,446,39251,18,7.21,Self-Employed,PhD,Single,2,Own,8,7,0,1,1,278,6.06
+796,68,Female,24895,13605,417,17027,18,14.32,Unemployed,Bachelor,Divorced,3,Rent,19,2,1,1,0,213,1.12
+797,22,Female,139968,32337,681,41475,22,7.16,Employed,Master,Divorced,2,Own,30,3,1,0,0,75,4.71
+798,64,Male,135700,6482,711,24353,14,3.62,Employed,High School,Single,4,Rent,34,6,0,1,0,68,1.66
+799,42,Female,96559,66333,662,15258,18,8.83,Unemployed,Bachelor,Single,4,Mortgage,14,3,1,1,1,228,4.65
+800,19,Male,30699,93541,808,744,15,3.42,Employed,High School,Married,4,Own,22,2,0,0,1,275,1.36
+801,27,Female,85061,89296,436,3678,15,4.64,Self-Employed,High School,Married,1,Own,44,4,0,0,1,150,8.52
+802,47,Male,29715,51952,474,32331,6,14.98,Self-Employed,PhD,Widowed,4,Own,17,5,0,0,0,245,2.89
+803,67,Male,39169,6463,588,2676,27,9.04,Unemployed,PhD,Widowed,4,Own,15,9,1,1,1,227,3.95
+804,62,Female,145436,71448,780,38270,15,5.69,Employed,Master,Single,1,Own,48,3,0,0,0,24,8.83
+805,22,Male,138413,5648,318,34154,18,14.93,Self-Employed,PhD,Single,4,Own,32,3,1,1,0,147,7.72
+806,50,Female,36163,34623,494,27127,4,14.57,Self-Employed,High School,Married,3,Mortgage,13,6,1,0,0,241,2.97
+807,18,Female,139264,60156,629,46989,23,7.73,Self-Employed,High School,Married,4,Mortgage,21,5,1,1,0,98,1.65
+808,35,Male,25782,36634,474,45410,8,5.39,Unemployed,Bachelor,Single,4,Rent,49,6,0,1,0,86,7.44
+809,49,Male,108177,45602,748,25381,15,12.9,Unemployed,High School,Divorced,1,Own,40,7,0,1,0,145,4.52
+810,64,Female,149772,50334,653,35922,3,11.3,Self-Employed,Master,Divorced,3,Rent,33,3,0,1,0,119,7.89
+811,66,Male,144481,69648,798,12484,15,10.93,Self-Employed,Master,Widowed,2,Rent,27,5,1,0,1,100,5.01
+812,28,Male,104328,23054,440,24276,13,13.61,Employed,PhD,Single,0,Mortgage,35,8,1,0,0,199,4.11
+813,38,Male,135028,71028,392,18255,9,10.96,Employed,PhD,Single,3,Rent,16,4,0,1,1,82,5.06
+814,43,Male,55585,23207,538,7635,2,5.69,Employed,PhD,Widowed,2,Mortgage,28,2,1,0,0,182,7.74
+815,42,Male,50682,81650,504,820,24,11.02,Unemployed,Master,Married,3,Rent,34,4,0,1,0,44,9.12
+816,39,Female,67864,82554,732,37922,8,5.98,Self-Employed,High School,Married,2,Own,47,2,0,0,0,219,1.45
+817,44,Female,149992,22386,544,29135,29,11.87,Unemployed,PhD,Divorced,2,Rent,1,3,1,0,1,142,5.72
+818,66,Male,104416,84276,616,22184,20,10.06,Self-Employed,Bachelor,Single,3,Mortgage,41,4,1,1,0,292,1.3
+819,30,Male,75114,60518,594,23738,17,3.01,Employed,PhD,Married,1,Mortgage,48,4,0,1,0,207,5.22
+820,50,Male,147810,53781,581,22389,13,8.67,Employed,Master,Divorced,3,Mortgage,31,9,1,0,1,41,8.97
+821,51,Female,58067,53780,316,30813,1,6.46,Employed,PhD,Divorced,3,Rent,36,6,0,1,1,145,4.25
+822,58,Male,62685,62440,370,33035,2,6.27,Employed,High School,Divorced,2,Rent,44,9,0,0,1,257,9.39
+823,52,Female,142262,45199,568,49399,15,9.83,Self-Employed,PhD,Married,0,Mortgage,33,4,1,0,1,155,6.68
+824,18,Female,38073,62035,624,11270,12,6.19,Employed,Master,Married,2,Own,33,9,0,0,0,152,9.41
+825,38,Female,56035,9210,604,39821,14,12.1,Self-Employed,Master,Single,4,Own,39,9,1,1,0,243,7.81
+826,65,Male,84977,45363,750,20926,25,2.92,Self-Employed,Bachelor,Single,3,Rent,18,6,0,1,1,53,1.93
+827,23,Female,122710,79279,306,44827,29,10.59,Unemployed,Master,Divorced,3,Rent,23,5,1,0,0,41,3.08
+828,45,Male,110373,61348,613,42277,2,12.52,Employed,Bachelor,Divorced,1,Mortgage,23,3,1,1,1,240,4.55
+829,34,Female,103362,56284,402,46750,18,10.75,Employed,High School,Married,2,Rent,15,5,0,1,1,37,2.53
+830,22,Male,110517,73124,492,7998,22,8.46,Unemployed,Master,Married,1,Rent,26,3,1,0,1,169,5.45
+831,48,Female,85450,69847,828,39904,7,14.35,Self-Employed,PhD,Single,3,Mortgage,30,5,1,1,0,216,5.24
+832,22,Male,30382,23432,470,40630,29,5.9,Employed,High School,Single,2,Mortgage,25,5,0,1,1,27,9.61
+833,55,Female,24437,65089,836,16895,23,2.25,Self-Employed,PhD,Widowed,2,Rent,45,2,1,0,0,112,4.9
+834,20,Male,90971,56398,550,49846,29,7.62,Unemployed,PhD,Single,4,Own,16,9,0,1,0,79,8.07
+835,40,Male,84612,4321,686,3037,25,2.43,Self-Employed,PhD,Married,4,Rent,39,7,1,0,0,128,9.48
+836,54,Male,110355,82348,506,19726,6,14.4,Employed,High School,Divorced,0,Own,48,6,0,1,1,148,8.89
+837,54,Male,81929,38383,840,15716,14,4.73,Self-Employed,High School,Widowed,4,Own,45,5,0,1,0,169,2.88
+838,27,Female,122411,79682,715,19113,8,12.26,Self-Employed,Master,Single,2,Own,14,4,0,0,1,241,5.46
+839,27,Female,117518,80190,679,3509,27,12.07,Employed,PhD,Single,4,Mortgage,17,8,0,0,0,157,4.13
+840,36,Male,118864,53893,443,24868,22,4.83,Employed,Bachelor,Married,0,Mortgage,12,2,1,1,0,252,4.6
+841,34,Female,32329,36820,324,29827,2,10.08,Self-Employed,Master,Widowed,3,Mortgage,29,8,0,0,0,44,4.25
+842,38,Male,145605,67262,372,14709,17,2.63,Self-Employed,High School,Single,4,Rent,32,1,1,0,1,248,8.44
+843,31,Male,45169,4760,392,48943,5,8.29,Unemployed,Bachelor,Divorced,2,Mortgage,24,1,0,1,1,158,5.07
+844,26,Female,107468,23190,804,15529,14,2.19,Employed,High School,Married,3,Mortgage,13,3,1,0,1,120,5.71
+845,63,Male,54594,68411,635,2577,25,13.97,Self-Employed,Bachelor,Widowed,2,Rent,20,5,0,1,1,26,9.84
+846,18,Male,96957,24377,724,14407,24,14.69,Employed,Master,Single,3,Rent,15,6,1,1,0,235,1.54
+847,68,Female,80631,47737,798,37135,29,4.89,Unemployed,Bachelor,Single,2,Own,4,4,1,0,0,149,5.39
+848,62,Male,65033,70569,663,49420,20,4.71,Self-Employed,Master,Widowed,4,Rent,34,7,0,1,1,153,7.97
+849,30,Male,83133,39211,498,5373,21,11.8,Self-Employed,High School,Married,4,Rent,28,7,0,0,1,269,2.36
+850,21,Male,93165,83909,712,9135,29,5.29,Self-Employed,Bachelor,Widowed,0,Mortgage,2,2,0,1,1,226,6.5
+851,18,Male,93861,4744,638,33565,21,13.64,Employed,PhD,Widowed,3,Own,47,2,1,0,1,171,3.16
+852,66,Female,72290,25995,728,46363,22,9.46,Unemployed,PhD,Married,0,Own,30,2,1,0,0,101,8.81
+853,57,Female,114031,17977,438,42304,3,6.56,Employed,High School,Single,1,Rent,26,2,1,1,1,183,3.94
+854,49,Female,51750,98938,841,34283,5,12.83,Self-Employed,Bachelor,Divorced,4,Mortgage,47,9,1,0,1,214,3.96
+855,51,Male,115155,35542,356,34652,16,8.41,Unemployed,PhD,Married,3,Mortgage,26,5,0,0,0,162,6.38
+856,45,Male,60461,11651,531,42013,18,13.85,Self-Employed,Master,Divorced,0,Mortgage,20,8,0,0,1,112,2.65
+857,48,Female,93800,79931,734,29592,26,14.06,Self-Employed,Bachelor,Single,0,Mortgage,42,5,0,1,0,211,3.56
+858,25,Male,98222,96344,683,18153,17,4.15,Employed,Bachelor,Widowed,1,Rent,28,5,0,1,1,289,4.75
+859,56,Male,132020,17715,493,32963,11,2.03,Self-Employed,PhD,Divorced,0,Mortgage,20,1,1,0,0,74,4.18
+860,43,Male,44226,45409,833,34528,17,14.79,Unemployed,Master,Single,2,Own,11,6,1,0,1,126,5.72
+861,51,Male,26721,25306,817,40969,16,13.78,Self-Employed,Master,Single,4,Own,10,4,0,1,1,162,6.4
+862,20,Female,76154,20086,484,21447,26,2.72,Self-Employed,Master,Widowed,0,Rent,23,3,1,1,1,165,6.1
+863,67,Female,40609,15376,591,30478,23,12.83,Employed,Bachelor,Widowed,0,Mortgage,37,6,0,1,1,173,6.89
+864,29,Female,72130,62350,634,22556,2,7.95,Unemployed,High School,Single,1,Mortgage,41,2,1,0,1,91,3.77
+865,18,Male,92909,72425,415,29507,4,5.37,Employed,Bachelor,Single,2,Mortgage,19,8,1,1,0,15,2.14
+866,61,Female,124211,37636,348,43669,21,13.42,Self-Employed,Bachelor,Divorced,0,Mortgage,45,1,1,0,1,76,7.85
+867,22,Female,75249,87120,381,48787,7,4.56,Employed,PhD,Single,4,Rent,18,9,1,1,0,247,8.66
+868,47,Male,68895,52649,632,45132,2,14.31,Employed,High School,Single,4,Mortgage,49,8,1,0,0,81,3.31
+869,47,Male,114473,35610,634,48949,6,4.67,Employed,Master,Divorced,0,Rent,27,1,1,1,0,104,4.66
+870,34,Female,25656,11058,831,6043,17,9.98,Employed,PhD,Married,2,Mortgage,6,9,0,0,0,87,5.49
+871,65,Female,144865,75637,520,21567,7,4.9,Self-Employed,Bachelor,Divorced,4,Mortgage,10,2,1,1,1,76,5.8
+872,64,Female,94520,79033,622,45756,25,9.09,Self-Employed,High School,Divorced,4,Own,2,3,0,1,1,185,6.94
+873,40,Female,83740,71194,302,25597,5,10.89,Unemployed,Master,Widowed,2,Rent,24,2,0,0,1,181,1.37
+874,32,Male,84309,77917,505,43347,5,4.47,Employed,Master,Divorced,2,Own,38,8,0,1,1,264,7.49
+875,54,Female,49984,65200,339,44012,20,8.77,Employed,Bachelor,Single,0,Rent,28,2,0,1,0,72,1.56
+876,38,Female,138947,47619,358,4309,16,8.1,Unemployed,Master,Single,3,Mortgage,28,2,0,1,0,255,5.21
+877,31,Male,93822,18154,806,22691,19,2.92,Employed,Master,Single,1,Mortgage,45,1,0,1,0,201,8.45
+878,19,Female,25901,20539,421,21767,9,12.64,Unemployed,High School,Married,3,Rent,39,7,1,0,1,80,5.06
+879,28,Male,51552,61058,778,7706,5,6.36,Self-Employed,PhD,Single,3,Own,2,2,1,0,1,238,2.34
+880,68,Male,111245,63068,395,21557,8,9.47,Unemployed,High School,Married,4,Rent,46,5,1,1,1,72,9.87
+881,56,Male,51055,78313,713,29492,9,8.69,Employed,PhD,Single,2,Rent,5,5,0,0,1,254,9
+882,55,Female,57685,31373,534,47014,5,8.67,Unemployed,PhD,Divorced,4,Mortgage,11,3,0,0,0,16,7.94
+883,51,Female,93965,34154,361,16495,10,3.39,Self-Employed,PhD,Widowed,1,Own,10,3,0,0,1,269,4.7
+884,55,Male,34716,7031,555,49303,25,7.51,Employed,Master,Single,0,Rent,43,3,1,0,1,98,2.65
+885,67,Female,134099,94533,647,44939,2,7.88,Self-Employed,High School,Married,1,Own,2,6,1,0,0,186,9.47
+886,51,Female,31138,72975,423,13710,9,11.54,Self-Employed,Master,Married,4,Own,15,4,1,1,0,213,5.79
+887,35,Male,55298,23785,781,18293,11,12.92,Unemployed,Bachelor,Widowed,4,Rent,39,3,0,0,1,143,8.67
+888,47,Male,71112,79928,616,26770,4,9.08,Self-Employed,High School,Single,4,Own,41,2,0,1,1,91,4.08
+889,32,Female,43429,29669,803,5697,22,3.13,Employed,PhD,Divorced,4,Mortgage,37,3,0,0,0,30,4.02
+890,44,Male,70200,95475,347,48821,22,5.08,Self-Employed,Master,Single,3,Mortgage,7,4,1,1,1,137,9.87
+891,68,Female,91308,3282,708,7952,22,4.14,Self-Employed,Master,Single,0,Mortgage,20,6,0,1,0,204,5.7
+892,51,Female,68244,35624,435,41986,2,3.62,Unemployed,High School,Widowed,3,Mortgage,34,4,0,1,0,203,2.27
+893,69,Female,137217,49438,500,15359,23,6.76,Self-Employed,High School,Single,4,Own,35,8,0,0,1,193,2.98
+894,55,Female,134055,90900,549,27736,29,4.98,Unemployed,PhD,Divorced,2,Mortgage,34,3,0,0,0,256,5.34
+895,50,Male,121268,68534,613,32399,6,4.84,Unemployed,PhD,Married,3,Rent,22,3,1,1,1,169,1.38
+896,41,Male,125441,32705,667,32583,27,2.71,Employed,Bachelor,Widowed,4,Mortgage,31,3,1,1,1,203,5.16
+897,32,Male,37347,39244,728,2672,14,2.23,Employed,PhD,Divorced,4,Rent,23,8,0,0,1,119,4.77
+898,47,Male,36920,75964,779,46426,1,3.34,Employed,Master,Married,0,Rent,19,4,0,0,1,75,8.01
+899,59,Female,51822,38437,613,17163,18,4.24,Employed,Bachelor,Widowed,1,Mortgage,4,1,1,1,0,263,4.19
+900,68,Female,66659,78872,799,28040,7,7.6,Unemployed,Bachelor,Widowed,3,Mortgage,24,2,1,0,1,292,9.84
+901,34,Male,60108,75878,654,19553,1,8.64,Self-Employed,Bachelor,Married,3,Own,20,2,0,0,1,69,2.63
+902,22,Female,148955,73982,784,11585,1,3.83,Employed,High School,Married,3,Rent,39,3,1,0,0,127,6.32
+903,46,Female,109099,51583,510,31064,1,7.52,Employed,PhD,Divorced,4,Mortgage,28,6,1,0,1,53,1.81
+904,21,Female,27967,39392,343,24709,24,6.44,Employed,Bachelor,Single,0,Own,39,8,0,0,1,219,7.6
+905,27,Male,130719,8461,840,4481,4,4.38,Self-Employed,High School,Single,4,Mortgage,17,1,1,0,1,45,9.95
+906,34,Male,31871,11516,391,21653,4,2.09,Employed,High School,Single,4,Mortgage,19,9,1,1,1,28,8.37
+907,27,Male,114299,80285,564,5747,29,8.07,Self-Employed,Bachelor,Single,2,Mortgage,48,1,1,1,0,100,6
+908,34,Female,97452,18514,519,11053,18,10.91,Unemployed,Bachelor,Single,0,Rent,35,2,1,1,0,221,5.36
+909,37,Male,94270,37268,741,21311,27,4.94,Unemployed,Master,Divorced,3,Mortgage,32,3,0,1,1,231,8.52
+910,41,Male,53613,91486,700,30345,11,3.71,Unemployed,Bachelor,Widowed,1,Own,47,7,1,1,0,226,9.42
+911,22,Male,48179,37788,699,6635,27,13.53,Self-Employed,Master,Divorced,3,Mortgage,46,9,1,1,0,232,9.9
+912,51,Male,140465,76749,789,6073,1,5.58,Employed,Bachelor,Divorced,4,Mortgage,47,3,0,0,0,107,4.57
+913,23,Male,72188,62049,784,14231,28,4.91,Employed,Bachelor,Divorced,0,Own,46,8,1,0,0,28,9.92
+914,19,Male,75099,63493,769,7689,10,13.14,Employed,PhD,Widowed,0,Own,39,9,0,1,1,35,2.4
+915,30,Female,55262,37027,744,15041,9,12.62,Employed,Bachelor,Divorced,0,Rent,35,7,0,1,0,37,3.28
+916,60,Female,98213,94547,568,44146,23,7.83,Employed,Bachelor,Divorced,2,Rent,30,4,1,1,1,73,1.8
+917,60,Male,137407,43849,566,11587,4,8.36,Self-Employed,Master,Widowed,3,Rent,17,4,1,0,1,232,3.45
+918,65,Male,38268,18858,353,46935,28,4.83,Unemployed,Master,Divorced,2,Rent,42,4,1,0,0,89,7.91
+919,28,Female,97866,85162,827,3276,6,3.02,Employed,PhD,Single,1,Own,47,6,1,0,1,60,8.68
+920,68,Female,106269,80003,819,42579,16,9.45,Unemployed,Bachelor,Married,4,Mortgage,29,4,1,0,0,111,8.01
+921,64,Male,80545,53395,358,28064,2,3.28,Self-Employed,Bachelor,Divorced,2,Mortgage,6,5,0,1,1,185,6.68
+922,40,Male,123483,40758,339,29335,23,7.84,Self-Employed,Master,Married,2,Mortgage,17,9,1,1,1,19,5.63
+923,33,Male,112822,55312,536,8197,18,14.23,Employed,High School,Divorced,4,Rent,17,7,0,1,0,246,7.38
+924,48,Male,92146,69670,685,15129,10,14.39,Self-Employed,High School,Divorced,0,Own,14,8,1,1,1,109,4.52
+925,28,Female,91966,83279,599,8886,24,5.11,Unemployed,High School,Single,4,Own,24,5,0,0,0,237,8.57
+926,33,Male,59922,16434,694,17546,24,10.11,Employed,Master,Widowed,3,Own,37,5,1,0,1,73,7.09
+927,25,Male,99364,65047,506,8544,17,8.16,Employed,Master,Married,4,Mortgage,40,7,1,1,1,28,7.28
+928,21,Male,62913,48775,635,10115,13,13.38,Unemployed,High School,Widowed,0,Rent,39,8,1,0,0,150,5.82
+929,57,Male,117033,76769,813,48302,24,5.53,Employed,High School,Single,4,Own,32,9,1,0,0,34,8.97
+930,21,Female,124792,67677,477,5560,18,2.05,Employed,Bachelor,Single,2,Rent,36,2,1,0,0,237,3.27
+931,42,Female,139425,84555,695,11400,22,4.11,Unemployed,Master,Married,1,Own,37,3,0,0,1,98,4.43
+932,20,Female,75677,86920,670,6081,13,6.54,Employed,Master,Widowed,2,Rent,48,2,1,1,0,101,8
+933,49,Male,122154,46734,617,35282,17,6.1,Employed,High School,Single,1,Own,14,7,1,0,0,51,5.43
+934,20,Male,69841,89503,668,20673,5,12.29,Unemployed,High School,Divorced,4,Rent,27,2,1,1,0,90,9
+935,44,Female,66332,41603,683,13497,11,10.85,Self-Employed,PhD,Divorced,3,Own,19,2,0,0,0,116,4.12
+936,46,Male,112062,77708,361,43903,7,5.89,Unemployed,Master,Divorced,4,Own,31,2,1,0,1,120,4.32
+937,49,Male,139863,82926,804,46916,29,7.95,Employed,PhD,Widowed,0,Rent,46,4,0,1,1,286,9
+938,67,Female,115694,69803,538,7648,10,3.24,Unemployed,Bachelor,Divorced,4,Rent,9,1,1,1,1,223,5.18
+939,68,Female,45032,40332,494,19248,17,13.68,Employed,PhD,Divorced,1,Mortgage,38,2,0,0,1,240,5.65
+940,36,Female,57846,92703,521,14522,15,14.16,Employed,High School,Single,2,Rent,17,3,1,0,1,130,3.99
+941,38,Female,79474,22312,360,20513,18,14.74,Unemployed,Master,Single,3,Own,19,7,1,1,1,143,3.49
+942,22,Male,64936,94376,428,39187,23,13.29,Employed,Master,Divorced,4,Own,44,1,0,0,0,217,6.9
+943,35,Male,49794,85526,455,16386,22,4.26,Self-Employed,PhD,Divorced,4,Rent,4,6,1,0,1,266,2.08
+944,45,Female,81588,45179,677,25756,19,2.6,Employed,PhD,Single,2,Mortgage,48,3,0,1,0,194,8.91
+945,59,Male,90984,72442,736,30505,26,9.53,Unemployed,Bachelor,Married,3,Rent,11,3,1,0,0,295,8.01
+946,39,Female,70331,41379,506,7138,2,13.86,Self-Employed,Bachelor,Widowed,4,Own,22,4,1,0,0,189,2.72
+947,38,Female,114397,18297,687,37919,26,4.31,Self-Employed,High School,Widowed,4,Own,4,4,0,0,0,57,7.25
+948,23,Male,48141,3011,779,33877,4,2.09,Employed,High School,Single,1,Mortgage,17,7,1,0,1,96,6.42
+949,18,Female,29074,45014,639,41208,3,12.47,Unemployed,High School,Widowed,1,Rent,8,3,0,0,1,28,2.66
+950,22,Male,26406,12738,639,43616,7,3,Employed,PhD,Single,0,Own,46,8,0,1,1,55,3.46
+951,58,Male,117359,95333,503,37134,24,7.38,Employed,PhD,Single,2,Own,34,8,1,0,0,65,4.68
+952,29,Male,143279,48498,460,17255,18,10.83,Unemployed,Master,Single,3,Own,11,7,1,1,1,238,7.29
+953,43,Male,43291,12120,839,23882,10,5.08,Unemployed,High School,Single,4,Rent,31,2,1,1,1,154,6.75
+954,63,Female,61568,9767,691,22894,7,3.09,Employed,PhD,Married,4,Rent,11,5,0,0,1,101,5.79
+955,51,Male,117539,23852,833,2753,8,12.01,Self-Employed,Master,Divorced,0,Mortgage,38,6,0,1,1,91,7.92
+956,66,Female,66851,80239,369,38210,6,10.19,Employed,High School,Divorced,4,Own,21,4,1,0,1,234,7.82
+957,31,Female,119942,1929,704,45598,22,14.85,Self-Employed,Bachelor,Married,2,Own,46,5,0,1,1,88,6.56
+958,43,Female,74823,78487,816,1364,26,6.48,Employed,Bachelor,Widowed,0,Mortgage,30,9,0,1,0,159,8.08
+959,62,Female,43312,92575,419,34536,1,2.8,Unemployed,PhD,Widowed,2,Own,10,7,0,1,0,292,4.01
+960,44,Male,63108,96040,516,40722,4,11.55,Self-Employed,Master,Divorced,0,Mortgage,26,2,0,0,1,169,8.93
+961,26,Male,86918,18438,355,14166,14,8.78,Unemployed,Bachelor,Widowed,4,Mortgage,27,1,1,1,0,165,6.53
+962,43,Female,54171,49515,665,21455,17,4.77,Unemployed,Master,Divorced,0,Own,8,2,1,1,0,165,8.4
+963,64,Female,61779,6744,803,45638,20,12.16,Unemployed,Master,Divorced,1,Rent,39,3,1,1,1,211,5.92
+964,39,Male,88828,84820,754,38497,18,4.65,Unemployed,Bachelor,Married,3,Rent,8,2,0,0,0,126,2.97
+965,64,Female,127315,43417,403,16809,11,5.39,Unemployed,Master,Widowed,4,Rent,8,3,0,0,1,163,5.88
+966,47,Male,118723,8069,376,4554,29,3.2,Employed,Bachelor,Married,3,Rent,34,9,0,1,0,128,4.34
+967,60,Female,32411,43359,529,1435,21,7.19,Self-Employed,PhD,Divorced,4,Own,16,4,0,1,1,208,7.28
+968,65,Male,122821,20799,557,45440,26,7.45,Employed,High School,Divorced,3,Mortgage,41,9,1,1,0,272,5.28
+969,34,Female,137990,99746,563,23278,14,8.69,Employed,High School,Divorced,1,Mortgage,13,3,0,1,0,193,8.53
+970,43,Female,77009,94762,630,43798,9,11.22,Employed,PhD,Single,3,Own,23,1,0,0,0,157,7.1
+971,53,Male,35422,71188,481,48828,27,13.78,Unemployed,Bachelor,Single,0,Rent,12,5,1,0,0,175,7.16
+972,18,Female,62468,90859,849,49424,15,3.79,Employed,Bachelor,Single,3,Mortgage,27,2,1,0,1,84,2.95
+973,25,Female,52371,8597,326,17209,12,2.71,Self-Employed,Bachelor,Married,4,Own,22,4,1,1,0,245,9.86
+974,66,Male,77022,48093,575,10226,10,2.24,Employed,Bachelor,Divorced,2,Own,32,2,0,0,1,281,8.58
+975,52,Female,91229,38226,598,41042,19,3.87,Unemployed,PhD,Widowed,3,Rent,49,2,0,1,1,188,8.1
+976,69,Male,119071,73127,390,20745,24,10.55,Self-Employed,High School,Married,3,Own,27,3,0,1,0,292,3.97
+977,32,Male,71196,92369,779,35253,19,11.46,Self-Employed,Master,Married,3,Mortgage,2,5,0,1,0,60,5.82
+978,64,Female,100354,78362,757,14752,6,12.22,Self-Employed,Master,Married,4,Mortgage,45,4,0,0,1,84,2.23
+979,39,Female,116774,27417,750,21816,20,5.17,Self-Employed,High School,Widowed,3,Own,33,2,0,1,0,153,5.85
+980,31,Female,116410,19693,664,37871,24,5.98,Employed,PhD,Divorced,4,Mortgage,26,2,1,0,1,197,2.31
+981,43,Female,46715,80674,650,19662,27,8.28,Unemployed,Master,Single,4,Own,28,6,0,1,0,132,5.98
+982,45,Female,47605,54161,699,16460,6,2.82,Self-Employed,High School,Divorced,2,Mortgage,19,7,1,0,1,260,6.84
+983,40,Female,119853,3169,552,31291,8,9.94,Self-Employed,PhD,Divorced,0,Rent,43,6,1,1,0,139,4.51
+984,31,Female,51174,85092,758,42730,1,14.79,Unemployed,Master,Married,4,Mortgage,5,7,1,0,0,261,5.49
+985,41,Male,29956,23052,798,25716,22,6.69,Employed,Bachelor,Married,1,Rent,33,1,0,1,1,189,8.88
+986,19,Female,124444,72849,807,32967,17,11.79,Self-Employed,Bachelor,Married,3,Rent,20,6,0,0,1,119,1.98
+987,62,Male,96373,74851,603,47434,17,8.5,Employed,PhD,Single,1,Own,30,3,1,1,1,87,8.13
+988,43,Female,89252,9036,800,8254,24,3.66,Employed,Bachelor,Single,3,Rent,45,1,0,1,0,11,2.54
+989,31,Female,81949,32778,465,47514,15,9.57,Employed,PhD,Single,2,Mortgage,8,8,0,1,0,285,1.33
+990,68,Male,82646,28734,714,4578,7,5.9,Employed,High School,Divorced,4,Mortgage,38,4,1,0,0,299,2.67
+991,24,Female,90017,24173,761,13353,19,2.45,Self-Employed,High School,Married,0,Rent,17,8,0,1,0,178,7.89
+992,20,Female,83037,31403,413,4542,22,10.25,Self-Employed,Master,Widowed,4,Own,44,4,0,1,1,249,4.65
+993,64,Male,109818,67321,732,49552,25,13.17,Employed,PhD,Divorced,3,Rent,1,4,0,1,1,32,8.85
+994,40,Female,26548,72675,655,14889,23,6.48,Employed,Master,Single,0,Mortgage,3,4,0,0,0,181,5.72
+995,63,Female,136981,7344,506,30925,28,7.07,Unemployed,Master,Widowed,4,Mortgage,46,6,1,1,0,295,1.2
+996,60,Female,123141,19800,534,3075,3,13.58,Unemployed,High School,Widowed,0,Rent,26,9,1,1,0,202,7.45
+997,64,Male,93294,26372,741,40022,29,12.58,Unemployed,Master,Married,3,Rent,31,5,0,0,1,178,1.99
+998,62,Female,129204,62516,654,28679,22,11.29,Self-Employed,Bachelor,Widowed,2,Rent,8,8,0,1,1,127,8.1
+999,35,Female,43177,21538,814,35254,11,5.23,Unemployed,Master,Single,2,Mortgage,43,8,0,0,0,15,2.51
+1000,55,Female,44022,64918,507,19124,20,13.83,Self-Employed,PhD,Married,4,Mortgage,46,4,1,1,1,141,4.11
+1001,52,Female,126297,15973,424,20850,29,4.01,Self-Employed,Bachelor,Widowed,1,Mortgage,8,9,0,0,0,102,7.85
+1002,68,Male,140695,72155,437,27181,19,10.15,Self-Employed,High School,Married,3,Own,35,9,0,0,0,260,9.59
+1003,32,Male,25542,60500,638,24488,9,2.37,Self-Employed,PhD,Widowed,4,Mortgage,39,5,1,0,1,19,4.34
+1004,42,Female,111012,37575,836,15970,10,10.37,Unemployed,Bachelor,Divorced,4,Mortgage,28,6,0,1,1,60,8.46
+1005,54,Female,116320,43261,367,25204,2,5.6,Employed,PhD,Divorced,2,Own,4,5,1,1,1,138,2.72
+1006,45,Male,80428,28716,840,39236,1,7.85,Employed,Bachelor,Single,0,Own,16,3,0,0,1,258,8.26
+1007,27,Male,42740,4236,682,29877,16,6.49,Employed,PhD,Divorced,3,Own,13,8,1,1,0,111,6.92
+1008,56,Female,79353,16848,318,29072,18,4.25,Unemployed,PhD,Divorced,0,Own,20,9,0,1,1,92,2.73
+1009,34,Male,110353,3352,749,7993,23,10.09,Employed,Bachelor,Divorced,3,Own,5,4,0,0,1,200,3.72
+1010,56,Female,133132,2932,373,4603,26,13.47,Unemployed,High School,Widowed,1,Own,37,9,1,0,1,152,2.19
+1011,39,Male,76532,77449,575,35344,17,14.47,Unemployed,High School,Widowed,2,Rent,20,9,1,0,1,246,4.45
+1012,43,Male,36052,9556,347,3494,6,4.5,Unemployed,PhD,Married,1,Rent,24,7,1,0,0,296,2.83
+1013,61,Male,120689,87836,510,4244,14,11.33,Employed,PhD,Widowed,4,Rent,36,8,1,1,0,286,6.8
+1014,42,Male,67076,6498,839,47734,23,10.64,Employed,High School,Divorced,2,Rent,34,3,1,1,1,178,9.95
+1015,34,Female,73420,77118,490,47791,25,6.46,Employed,High School,Widowed,4,Mortgage,45,5,0,1,1,153,1.11
+1016,30,Male,20671,51098,614,27832,15,2.25,Self-Employed,Master,Single,1,Own,48,3,1,1,0,193,5.87
+1017,37,Male,20163,65386,412,6094,14,10.97,Unemployed,High School,Married,3,Mortgage,34,7,1,1,0,54,6.16
+1018,42,Female,61424,10569,469,40799,24,14.29,Self-Employed,PhD,Married,4,Own,19,6,1,1,1,252,9.23
+1019,21,Male,129538,57882,767,7871,22,10.22,Unemployed,Bachelor,Widowed,0,Own,17,3,1,0,0,277,5.55
+1020,27,Male,73744,71393,313,47815,3,7.66,Employed,High School,Divorced,3,Mortgage,5,9,0,1,0,262,5.89
+1021,20,Female,90331,1340,587,18528,24,8.83,Unemployed,Master,Married,3,Rent,25,1,0,1,0,298,5.24
+1022,58,Male,30634,44949,488,36412,23,4.6,Unemployed,Master,Single,1,Mortgage,18,3,0,1,0,221,3.42
+1023,62,Female,24798,83302,454,14490,19,11.76,Self-Employed,Master,Single,1,Mortgage,8,7,0,0,1,186,1.5
+1024,35,Female,42420,63443,770,47351,25,11.7,Unemployed,Bachelor,Married,2,Own,27,3,0,0,0,30,4.68
+1025,64,Female,137043,92668,374,17126,12,3.89,Employed,High School,Divorced,2,Own,15,3,1,1,0,61,1.47
+1026,53,Female,140575,75027,576,20969,2,13.41,Unemployed,High School,Divorced,0,Own,45,2,0,0,1,242,5.95
+1027,64,Male,147158,1138,642,41222,3,5.5,Unemployed,High School,Widowed,3,Rent,13,9,0,0,1,132,3.77
+1028,39,Female,49300,1358,724,40537,18,14.77,Unemployed,Bachelor,Widowed,0,Mortgage,16,4,1,1,1,109,5.8
+1029,51,Male,109881,76250,810,7630,29,6.98,Self-Employed,Bachelor,Married,0,Mortgage,22,6,1,1,0,223,2.21
+1030,64,Male,30749,86376,481,7328,1,4.31,Unemployed,PhD,Widowed,1,Rent,20,2,0,1,1,144,9.39
+1031,25,Male,124131,31654,757,42112,20,6.57,Unemployed,Master,Widowed,0,Mortgage,13,9,0,0,0,227,9.05
+1032,57,Male,45121,26879,363,47488,21,7.72,Self-Employed,Master,Widowed,0,Mortgage,20,7,1,0,1,97,2.71
+1033,66,Male,148563,82532,559,39599,29,2.9,Self-Employed,High School,Single,4,Own,2,5,0,1,0,289,4.09
+1034,61,Male,57487,56778,492,46665,6,9.52,Self-Employed,Bachelor,Widowed,2,Rent,35,7,1,0,1,49,6.52
+1035,36,Male,113947,38772,705,18383,5,9.77,Self-Employed,Bachelor,Married,2,Own,47,4,1,0,1,249,1.86
+1036,59,Male,53361,59478,392,43559,1,11.61,Employed,High School,Divorced,3,Rent,19,7,0,0,0,145,4.19
+1037,58,Male,41223,65353,729,19042,19,2.38,Employed,High School,Widowed,2,Own,45,2,0,1,1,191,3.26
+1038,54,Male,92930,27762,733,43432,1,9.04,Unemployed,PhD,Divorced,3,Mortgage,37,7,0,1,1,274,9.24
+1039,23,Female,34056,14283,703,10950,27,2.69,Employed,Master,Widowed,4,Rent,6,4,1,1,1,268,8.67
+1040,69,Female,48380,64922,733,20923,21,11.11,Unemployed,Master,Married,2,Rent,14,4,1,1,1,191,6.22
+1041,43,Female,46035,40420,411,2535,21,2.72,Employed,Master,Single,4,Own,4,1,0,1,1,30,5.68
+1042,51,Male,50620,56568,674,44731,16,13.85,Self-Employed,PhD,Married,2,Rent,22,3,0,0,0,205,9.38
+1043,62,Female,39877,86090,358,41245,12,11.13,Self-Employed,High School,Single,2,Mortgage,39,5,0,0,0,221,9.39
+1044,23,Female,145481,21219,342,17741,27,8.6,Employed,High School,Widowed,4,Mortgage,36,5,1,0,1,25,9.72
+1045,54,Female,75316,58169,506,23654,29,7.74,Employed,Master,Widowed,0,Mortgage,34,2,1,0,1,211,2.13
+1046,50,Male,84041,75965,595,26125,22,3.7,Unemployed,Master,Single,0,Own,27,4,1,0,0,227,2.45
+1047,39,Male,128940,47840,417,45450,8,5.78,Unemployed,PhD,Married,0,Rent,7,1,0,0,0,102,7.09
+1048,38,Male,137360,45695,831,33566,26,13.3,Unemployed,Bachelor,Married,0,Own,3,9,1,1,1,142,5.87
+1049,23,Male,73352,85754,521,34191,16,13.76,Self-Employed,Bachelor,Single,2,Mortgage,47,1,1,1,0,148,1.17
+1050,23,Female,50911,78988,465,13831,28,2.01,Self-Employed,Master,Widowed,1,Rent,33,6,0,0,1,166,1.56
+1051,65,Female,52784,59342,455,21190,1,9.72,Self-Employed,PhD,Single,4,Mortgage,2,7,1,1,1,79,8.99
+1052,21,Female,23191,19951,483,19683,4,11.35,Self-Employed,Master,Widowed,1,Rent,42,3,0,0,1,24,8.82
+1053,47,Female,53160,2307,389,39846,10,10.04,Unemployed,Bachelor,Single,1,Rent,16,1,1,0,1,244,4.22
+1054,28,Male,110536,81388,393,5375,11,3.06,Self-Employed,Master,Widowed,3,Own,25,7,0,1,0,221,9.02
+1055,47,Male,124576,91768,312,12754,17,4.83,Self-Employed,Bachelor,Single,0,Rent,15,3,0,1,0,299,6.34
+1056,48,Male,84641,36428,737,29121,25,5.25,Self-Employed,Bachelor,Divorced,2,Mortgage,24,6,1,0,0,69,8.25
+1057,41,Female,69723,93021,837,11405,27,12.81,Self-Employed,Bachelor,Widowed,0,Rent,15,6,0,1,1,261,4.85
+1058,26,Male,23631,76774,449,46621,23,8.02,Employed,High School,Married,0,Mortgage,31,4,1,0,0,11,2.02
+1059,20,Male,26172,39975,307,16382,7,8.33,Unemployed,High School,Single,1,Own,14,6,0,0,1,245,4.9
+1060,68,Female,62080,2140,328,19541,12,14.15,Unemployed,Master,Married,3,Mortgage,14,4,0,0,1,28,5.12
+1061,48,Female,109097,25842,595,29598,21,10.28,Self-Employed,Bachelor,Single,0,Rent,6,8,0,0,0,58,5.96
+1062,57,Male,110353,27421,639,42931,7,13.68,Employed,High School,Married,4,Mortgage,14,9,1,0,1,87,1.95
+1063,54,Male,40281,2708,738,34209,12,7.93,Unemployed,Master,Married,4,Mortgage,17,2,0,1,1,37,9.92
+1064,53,Male,48671,4630,443,35175,15,3.94,Unemployed,Master,Single,0,Rent,18,7,0,0,1,57,3.2
+1065,41,Male,142811,20595,818,5337,2,14.09,Self-Employed,Master,Single,1,Mortgage,20,9,1,1,0,105,2.79
+1066,48,Male,71431,77021,344,46948,14,7.96,Self-Employed,Master,Married,1,Rent,17,9,0,0,1,174,5.74
+1067,23,Male,110900,29308,538,24989,13,4.36,Unemployed,Master,Married,2,Own,16,5,0,1,0,185,5.83
+1068,19,Female,142139,45789,454,18127,4,5.93,Unemployed,PhD,Married,3,Mortgage,40,1,0,0,1,82,4.96
+1069,37,Female,127210,56690,480,6196,14,2.66,Employed,Bachelor,Widowed,1,Own,39,6,0,1,0,38,7.95
+1070,45,Female,147734,27086,514,49494,14,8.09,Unemployed,Master,Widowed,2,Mortgage,32,8,1,0,1,166,5.65
+1071,28,Male,112961,17859,387,14043,16,13.09,Unemployed,PhD,Divorced,4,Mortgage,44,1,0,0,0,288,6.49
+1072,21,Female,135463,8684,555,13115,7,14.14,Self-Employed,Bachelor,Widowed,4,Own,9,2,0,1,0,292,7.51
+1073,32,Male,48602,92088,810,1966,19,14.12,Unemployed,High School,Widowed,4,Mortgage,27,1,1,1,1,16,1.23
+1074,23,Male,108789,2207,372,31271,2,3.63,Self-Employed,Master,Single,0,Mortgage,46,5,0,1,1,191,6.14
+1075,66,Female,71399,47099,478,18850,10,6.97,Unemployed,PhD,Divorced,3,Own,33,2,0,1,1,118,8.96
+1076,47,Male,43472,68496,511,875,18,2.37,Unemployed,High School,Divorced,2,Mortgage,10,4,1,1,1,215,1.16
+1077,55,Male,69230,67093,533,33530,29,13.12,Unemployed,PhD,Widowed,3,Rent,17,1,1,1,0,243,4.65
+1078,68,Female,93616,30689,764,21246,17,6.66,Employed,Bachelor,Single,0,Mortgage,49,7,1,0,1,196,9.34
+1079,19,Female,27099,49651,522,23386,5,10.2,Self-Employed,Bachelor,Single,2,Mortgage,49,8,1,0,0,17,4.18
+1080,32,Female,138614,14893,563,44848,12,11.29,Employed,High School,Divorced,2,Mortgage,36,5,0,0,1,62,5.13
+1081,28,Male,45431,98808,506,43404,6,7.59,Unemployed,PhD,Single,1,Own,17,2,1,1,0,208,9.83
+1082,25,Female,76492,67418,665,33151,22,5.98,Employed,Master,Married,3,Rent,18,8,0,1,0,146,2.79
+1083,43,Female,116722,61011,575,8333,9,14.51,Self-Employed,Master,Widowed,3,Rent,23,1,1,1,0,268,1.59
+1084,68,Male,67684,39635,679,2393,20,14.54,Unemployed,High School,Married,1,Mortgage,34,7,0,0,1,181,8.73
+1085,62,Female,50111,57115,608,31073,1,5.76,Employed,High School,Divorced,4,Own,8,1,1,1,1,95,8.82
+1086,61,Female,125387,96071,567,31871,22,8.24,Employed,High School,Divorced,0,Own,13,6,1,0,0,55,5.25
+1087,22,Female,83936,79405,363,41374,15,14.65,Self-Employed,PhD,Single,3,Rent,23,6,0,1,0,195,5.63
+1088,23,Male,42614,73702,649,12326,21,2.06,Employed,Master,Single,1,Own,20,5,1,1,0,165,8.52
+1089,43,Male,112260,79518,793,34920,26,7.36,Self-Employed,Master,Divorced,2,Mortgage,22,2,1,1,0,18,7.65
+1090,21,Male,61991,73805,822,22424,6,3.31,Unemployed,Master,Divorced,1,Mortgage,47,2,1,0,0,124,3.39
+1091,36,Male,90476,59954,397,33867,19,8.62,Unemployed,High School,Married,4,Own,23,9,0,1,1,163,1.15
+1092,37,Female,137959,29064,370,21699,18,2.32,Employed,Master,Married,0,Mortgage,41,5,1,0,0,139,5.32
+1093,50,Male,80920,80063,663,26368,6,7.29,Unemployed,Bachelor,Single,4,Rent,35,5,1,1,1,90,8.73
+1094,37,Male,114294,3454,575,9292,13,4.87,Unemployed,High School,Married,2,Mortgage,3,7,0,1,1,299,9.06
+1095,66,Female,83530,21878,349,21097,1,8.93,Employed,Master,Single,2,Own,34,6,0,1,1,156,9.61
+1096,29,Female,56224,52098,657,36905,23,14.95,Unemployed,PhD,Single,2,Rent,33,2,1,1,0,278,8.92
+1097,64,Female,27788,63154,784,33196,23,12.41,Employed,High School,Widowed,2,Mortgage,46,1,0,0,0,142,6.22
+1098,18,Male,48082,13991,383,43623,26,12.99,Self-Employed,Bachelor,Single,1,Rent,17,5,0,1,0,59,5
+1099,43,Male,143287,69344,595,16489,13,10.26,Self-Employed,Bachelor,Married,2,Own,45,4,0,0,0,32,7.97
+1100,31,Male,109570,37593,535,29431,7,2.54,Self-Employed,PhD,Divorced,2,Mortgage,19,3,1,1,1,97,7.66
