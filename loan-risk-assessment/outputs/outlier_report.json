@@ -1,0 +1,32 @@
+{
+  "Age": {
+    "count": 49,
+    "percentage": 0.41,
+    "lower_bound": 11.5,
+    "upper_bound": 63.5
+  },
+  "Income": {
+    "count": 249,
+    "percentage": 2.08,
+    "lower_bound": -8215.0,
+    "upper_bound": 129213.0
+  },
+  "Credit_Score": {
+    "count": 131,
+    "percentage": 1.09,
+    "lower_bound": 360.5,
+    "upper_bound": 700.5
+  },
+  "Loan_Amount": {
+    "count": 740,
+    "percentage": 6.17,
+    "lower_bound": -40991.0,
+    "upper_bound": 124545.0
+  },
+  "Existing_EMI": {
+    "count": 609,
+    "percentage": 5.08,
+    "lower_bound": -659.0,
+    "upper_bound": 1477.0
+  }
+}

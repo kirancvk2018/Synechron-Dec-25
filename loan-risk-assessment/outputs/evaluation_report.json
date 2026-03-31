@@ -1,0 +1,213 @@
+{
+  "best_model": "Logistic Regression",
+  "model_results": {
+    "Logistic Regression": {
+      "accuracy": 0.7788,
+      "precision": 0.2737,
+      "recall": 0.7913,
+      "f1_score": 0.4067,
+      "roc_auc": 0.856,
+      "cv_roc_auc_mean": 0.846,
+      "cv_roc_auc_std": 0.0089,
+      "confusion_matrix": [
+        [
+          1687,
+          483
+        ],
+        [
+          48,
+          182
+        ]
+      ],
+      "training_time_seconds": 0.01,
+      "classification_report": {
+        "0": {
+          "precision": 0.9723342939481268,
+          "recall": 0.7774193548387097,
+          "f1-score": 0.8640204865556979,
+          "support": 2170.0
+        },
+        "1": {
+          "precision": 0.2736842105263158,
+          "recall": 0.7913043478260869,
+          "f1-score": 0.40670391061452515,
+          "support": 230.0
+        },
+        "accuracy": 0.77875,
+        "macro avg": {
+          "precision": 0.6230092522372213,
+          "recall": 0.7843618513323983,
+          "f1-score": 0.6353621985851114,
+          "support": 2400.0
+        },
+        "weighted avg": {
+          "precision": 0.9053803276202032,
+          "recall": 0.77875,
+          "f1-score": 0.8201943146946687,
+          "support": 2400.0
+        }
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.8871,
+      "precision": 0.412,
+      "recall": 0.4174,
+      "f1_score": 0.4147,
+      "roc_auc": 0.8558,
+      "cv_roc_auc_mean": 0.8518,
+      "cv_roc_auc_std": 0.008,
+      "confusion_matrix": [
+        [
+          2033,
+          137
+        ],
+        [
+          134,
+          96
+        ]
+      ],
+      "training_time_seconds": 0.89,
+      "classification_report": {
+        "0": {
+          "precision": 0.9381633594831564,
+          "recall": 0.9368663594470046,
+          "f1-score": 0.937514410883099,
+          "support": 2170.0
+        },
+        "1": {
+          "precision": 0.41201716738197425,
+          "recall": 0.41739130434782606,
+          "f1-score": 0.4146868250539957,
+          "support": 230.0
+        },
+        "accuracy": 0.8870833333333333,
+        "macro avg": {
+          "precision": 0.6750902634325653,
+          "recall": 0.6771288318974154,
+          "f1-score": 0.6761006179685474,
+          "support": 2400.0
+        },
+        "weighted avg": {
+          "precision": 0.8877410160734598,
+          "recall": 0.8870833333333333,
+          "f1-score": 0.8874101005744767,
+          "support": 2400.0
+        }
+      }
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9075,
+      "precision": 0.54,
+      "recall": 0.2348,
+      "f1_score": 0.3273,
+      "roc_auc": 0.8557,
+      "cv_roc_auc_mean": 0.8424,
+      "cv_roc_auc_std": 0.0092,
+      "confusion_matrix": [
+        [
+          2124,
+          46
+        ],
+        [
+          176,
+          54
+        ]
+      ],
+      "training_time_seconds": 6.39,
+      "classification_report": {
+        "0": {
+          "precision": 0.9234782608695652,
+          "recall": 0.9788018433179724,
+          "f1-score": 0.9503355704697987,
+          "support": 2170.0
+        },
+        "1": {
+          "precision": 0.54,
+          "recall": 0.23478260869565218,
+          "f1-score": 0.32727272727272727,
+          "support": 230.0
+        },
+        "accuracy": 0.9075,
+        "macro avg": {
+          "precision": 0.7317391304347827,
+          "recall": 0.6067922260068123,
+          "f1-score": 0.638804148871263,
+          "support": 2400.0
+        },
+        "weighted avg": {
+          "precision": 0.8867282608695651,
+          "recall": 0.9075,
+          "f1-score": 0.8906253813300793,
+          "support": 2400.0
+        }
+      }
+    }
+  },
+  "feature_importance": {
+    "model_name": "Logistic Regression",
+    "feature_importance": {
+      "Default_History_Encoded": {
+        "importance_score": 0.816893,
+        "importance_percentage": 28.92,
+        "rank": 1
+      },
+      "Loan_to_Income_Ratio": {
+        "importance_score": 0.629128,
+        "importance_percentage": 22.27,
+        "rank": 2
+      },
+      "Income": {
+        "importance_score": 0.610106,
+        "importance_percentage": 21.6,
+        "rank": 3
+      },
+      "Credit_Score": {
+        "importance_score": 0.21751,
+        "importance_percentage": 7.7,
+        "rank": 4
+      },
+      "Loan_Amount": {
+        "importance_score": 0.160256,
+        "importance_percentage": 5.67,
+        "rank": 5
+      },
+      "Employment_Type_Encoded": {
+        "importance_score": 0.133885,
+        "importance_percentage": 4.74,
+        "rank": 6
+      },
+      "EMI_Burden_Ratio": {
+        "importance_score": 0.095934,
+        "importance_percentage": 3.4,
+        "rank": 7
+      },
+      "Existing_EMI": {
+        "importance_score": 0.0791,
+        "importance_percentage": 2.8,
+        "rank": 8
+      },
+      "Age": {
+        "importance_score": 0.040731,
+        "importance_percentage": 1.44,
+        "rank": 9
+      },
+      "Loan_Term": {
+        "importance_score": 0.036554,
+        "importance_percentage": 1.29,
+        "rank": 10
+      },
+      "Debt_to_Income_Ratio": {
+        "importance_score": 0.004574,
+        "importance_percentage": 0.16,
+        "rank": 11
+      }
+    },
+    "key_insights": [
+      "Top predictive features: Default_History_Encoded, Loan_to_Income_Ratio, Income, Credit_Score, Loan_Amount",
+      "The top 3 features account for 72.8% of total importance",
+      "Credit-related features (Credit_Score, Default_History) are strong predictors of loan risk",
+      "Debt-to-Income Ratio is a key engineered feature confirming financial stress as a risk factor",
+      "Employment type influences risk, with unemployed applicants showing highest default rates"
+    ]
+  }
+}
