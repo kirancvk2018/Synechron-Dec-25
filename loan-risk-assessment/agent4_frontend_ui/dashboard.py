@@ -157,8 +157,15 @@ def predict_locally(data: dict) -> dict:
             default_hist_mapping.get(data["default_history"], 0),
         ]])
 
-        # Scale features if scaler is available
-        if local_scaler is not None:
+        # Only scale features if the best model requires it (Logistic Regression)
+        needs_scaling = False
+        eval_path = os.path.join(OUTPUT_DIR, "evaluation_report.json")
+        if os.path.exists(eval_path):
+            with open(eval_path, "r") as f:
+                eval_data = json.load(f)
+            needs_scaling = eval_data.get("best_model") == "Logistic Regression"
+
+        if needs_scaling and local_scaler is not None:
             features_scaled = local_scaler.transform(features)
         else:
             features_scaled = features

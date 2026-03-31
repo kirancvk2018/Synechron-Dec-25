@@ -72,13 +72,14 @@ class LoanApplication(BaseModel):
     age: int = Field(..., ge=18, le=70, description="Applicant age (18-70)")
     income: float = Field(..., gt=0, description="Annual income in USD")
     employment_type: str = Field(
-        ..., description="Employment type: Salaried, Self-Employed, Freelancer, Government, Unemployed"
+        ..., description="Employment type: Salaried, Self-Employed, Freelancer, Government, Unemployed",
+        pattern="^(Salaried|Self-Employed|Freelancer|Government|Unemployed)$"
     )
     credit_score: int = Field(..., ge=300, le=850, description="Credit score (300-850)")
     loan_amount: float = Field(..., gt=0, description="Requested loan amount in USD")
     loan_term: int = Field(..., gt=0, description="Loan term in months")
     existing_emi: float = Field(..., ge=0, description="Existing monthly EMI obligations in USD")
-    default_history: str = Field(..., description="Default history: Yes or No")
+    default_history: str = Field(..., description="Default history: Yes or No", pattern="^(Yes|No)$")
 
     class Config:
         json_schema_extra = {
@@ -308,8 +309,12 @@ async def predict_loan_risk(application: LoanApplication):
             hist_encoded,
         ]])
 
-        # Scale features if scaler is available (needed for Logistic Regression)
-        if scaler is not None:
+        # Only scale features if the best model requires it (Logistic Regression)
+        needs_scaling = (
+            evaluation_report
+            and evaluation_report.get("best_model") == "Logistic Regression"
+        )
+        if needs_scaling and scaler is not None:
             features_scaled = scaler.transform(features)
         else:
             features_scaled = features
