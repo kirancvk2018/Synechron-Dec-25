@@ -1,0 +1,206 @@
+{
+  "Applicant_ID": {
+    "description": "Unique identifier for each loan applicant",
+    "dtype": "object",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 12000,
+    "sample_values": [
+      "APP_00001",
+      "APP_00002",
+      "APP_00003"
+    ]
+  },
+  "Age": {
+    "description": "Age of the applicant in years (22-65)",
+    "dtype": "int64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 44,
+    "sample_values": [
+      31,
+      40,
+      45
+    ]
+  },
+  "Income": {
+    "description": "Annual income of the applicant in USD",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 10823,
+    "sample_values": [
+      75633.0,
+      12144.0,
+      44955.0
+    ]
+  },
+  "Employment_Type": {
+    "description": "Type of employment (Salaried/Self-Employed/Freelancer/Government/Unemployed)",
+    "dtype": "object",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 5,
+    "sample_values": [
+      "Salaried",
+      "Unemployed",
+      "Freelancer"
+    ]
+  },
+  "Credit_Score": {
+    "description": "Credit score of the applicant (300-850)",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 409,
+    "sample_values": [
+      508.0,
+      333.0,
+      463.0
+    ]
+  },
+  "Loan_Amount": {
+    "description": "Requested loan amount in USD",
+    "dtype": "int64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 11123,
+    "sample_values": [
+      66160,
+      65845,
+      23758
+    ]
+  },
+  "Loan_Term": {
+    "description": "Loan term in months",
+    "dtype": "int64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 10,
+    "sample_values": [
+      12,
+      84,
+      360
+    ]
+  },
+  "Existing_EMI": {
+    "description": "Existing monthly EMI obligations in USD",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 1872,
+    "sample_values": [
+      12.0,
+      557.0,
+      126.0
+    ]
+  },
+  "Default_History": {
+    "description": "Whether the applicant has a history of default (Yes/No)",
+    "dtype": "object",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 2,
+    "sample_values": [
+      "No",
+      "No",
+      "Yes"
+    ]
+  },
+  "Loan_Status": {
+    "description": "Target variable - loan outcome (Default/Non-Default)",
+    "dtype": "object",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 2,
+    "sample_values": [
+      "Non-Default",
+      "Non-Default",
+      "Default"
+    ]
+  },
+  "Monthly_Income": {
+    "description": "Derived: Annual income divided by 12",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 10823,
+    "sample_values": [
+      6302.75,
+      1012.0,
+      3746.25
+    ]
+  },
+  "Estimated_Monthly_Payment": {
+    "description": "Derived: Estimated monthly payment for the requested loan",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 11512,
+    "sample_values": [
+      5755.15,
+      1026.27,
+      174.33
+    ]
+  },
+  "Debt_to_Income_Ratio": {
+    "description": "Derived: Total debt obligations relative to monthly income",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 6563,
+    "sample_values": [
+      0.915,
+      1.5645,
+      0.0802
+    ]
+  },
+  "Loan_to_Income_Ratio": {
+    "description": "Derived: Loan amount relative to annual income",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 8951,
+    "sample_values": [
+      0.8748,
+      5.422,
+      0.5285
+    ]
+  },
+  "EMI_Burden_Ratio": {
+    "description": "Derived: Existing EMI relative to monthly income",
+    "dtype": "float64",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 3723,
+    "sample_values": [
+      0.0019,
+      0.5504,
+      0.0336
+    ]
+  },
+  "Credit_Score_Bin": {
+    "description": "Derived: Categorical binning of credit score",
+    "dtype": "category",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 5,
+    "sample_values": [
+      "Poor",
+      "Very Poor",
+      "Very Poor"
+    ]
+  },
+  "Age_Group": {
+    "description": "Derived: Categorical binning of age",
+    "dtype": "category",
+    "non_null_count": 12000,
+    "null_count": 0,
+    "unique_values": 5,
+    "sample_values": [
+      "26-35",
+      "36-45",
+      "36-45"
+    ]
+  }
+}

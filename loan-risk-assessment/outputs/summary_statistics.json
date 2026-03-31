@@ -1,0 +1,160 @@
+{
+  "total_records": 12000,
+  "total_features": 17,
+  "default_rate": 9.57,
+  "numeric_summary": {
+    "Age": {
+      "count": 12000.0,
+      "mean": 37.84,
+      "std": 9.44,
+      "min": 22.0,
+      "25%": 31.0,
+      "50%": 38.0,
+      "75%": 44.0,
+      "max": 65.0
+    },
+    "Income": {
+      "count": 12000.0,
+      "mean": 61018.15,
+      "std": 28883.24,
+      "min": 5000.0,
+      "25%": 43320.5,
+      "50%": 59949.0,
+      "75%": 77677.5,
+      "max": 210474.0
+    },
+    "Credit_Score": {
+      "count": 12000.0,
+      "mean": 531.41,
+      "std": 65.05,
+      "min": 300.0,
+      "25%": 488.0,
+      "50%": 531.0,
+      "75%": 573.0,
+      "max": 850.0
+    },
+    "Loan_Amount": {
+      "count": 12000.0,
+      "mean": 49861.2,
+      "std": 45854.83,
+      "min": 5000.0,
+      "25%": 21085.0,
+      "50%": 36327.0,
+      "75%": 62469.0,
+      "max": 500000.0
+    },
+    "Loan_Term": {
+      "count": 12000.0,
+      "mean": 96.0,
+      "std": 85.02,
+      "min": 12.0,
+      "25%": 36.0,
+      "50%": 60.0,
+      "75%": 120.0,
+      "max": 360.0
+    },
+    "Existing_EMI": {
+      "count": 12000.0,
+      "mean": 492.34,
+      "std": 494.45,
+      "min": 0.0,
+      "25%": 142.0,
+      "50%": 346.0,
+      "75%": 676.0,
+      "max": 5870.0
+    },
+    "Monthly_Income": {
+      "count": 12000.0,
+      "mean": 5084.85,
+      "std": 2406.94,
+      "min": 416.67,
+      "25%": 3610.04,
+      "50%": 4995.75,
+      "75%": 6473.13,
+      "max": 17539.5
+    },
+    "Estimated_Monthly_Payment": {
+      "count": 12000.0,
+      "mean": 1185.89,
+      "std": 1620.76,
+      "min": 36.69,
+      "25%": 353.56,
+      "50%": 698.48,
+      "75%": 1375.68,
+      "max": 38361.11
+    },
+    "Debt_to_Income_Ratio": {
+      "count": 12000.0,
+      "mean": 0.53,
+      "std": 1.12,
+      "min": 0.0,
+      "25%": 0.14,
+      "50%": 0.27,
+      "75%": 0.51,
+      "max": 36.95
+    },
+    "Loan_to_Income_Ratio": {
+      "count": 12000.0,
+      "mean": 1.31,
+      "std": 2.46,
+      "min": 0.03,
+      "25%": 0.34,
+      "50%": 0.65,
+      "75%": 1.31,
+      "max": 80.02
+    },
+    "EMI_Burden_Ratio": {
+      "count": 12000.0,
+      "mean": 0.16,
+      "std": 0.31,
+      "min": 0.0,
+      "25%": 0.03,
+      "50%": 0.07,
+      "75%": 0.16,
+      "max": 6.73
+    }
+  },
+  "categorical_summary": {
+    "Employment_Type": {
+      "Salaried": 4846,
+      "Self-Employed": 3038,
+      "Freelancer": 1729,
+      "Government": 1440,
+      "Unemployed": 947
+    },
+    "Default_History": {
+      "No": 8644,
+      "Yes": 3356
+    },
+    "Loan_Status": {
+      "Non-Default": 10851,
+      "Default": 1149
+    },
+    "Credit_Score_Bin": {
+      "Poor": 6483,
+      "Very Poor": 3810,
+      "Fair": 1618,
+      "Good": 78,
+      "Excellent": 11
+    },
+    "Age_Group": {
+      "36-45": 4391,
+      "26-35": 3713,
+      "46-55": 2140,
+      "18-25": 1315,
+      "56+": 441
+    }
+  },
+  "correlation_highlights": {
+    "Loan_to_Income_Ratio": 0.3555,
+    "Debt_to_Income_Ratio": 0.308,
+    "Income": -0.2904,
+    "Monthly_Income": -0.2904,
+    "EMI_Burden_Ratio": 0.2547,
+    "Credit_Score": -0.2232,
+    "Loan_Amount": 0.0592,
+    "Estimated_Monthly_Payment": 0.0366,
+    "Age": -0.0072,
+    "Loan_Term": 0.0036
+  }
+}

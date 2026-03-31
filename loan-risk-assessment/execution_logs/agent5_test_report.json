@@ -1,0 +1,245 @@
+{
+  "agent": "Agent 5: Integration & QA",
+  "start_time": "2026-03-31T05:20:39.688977",
+  "test_suites": {
+    "Data Engineering": [
+      {
+        "test": "Data Dictionary Exists",
+        "method": "test_data_dictionary_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Data Ranges",
+        "method": "test_data_ranges",
+        "status": "PASSED",
+        "duration_seconds": 0.026,
+        "error": null
+      },
+      {
+        "test": "Dataset Exists",
+        "method": "test_dataset_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Dataset Row Count",
+        "method": "test_dataset_row_count",
+        "status": "PASSED",
+        "duration_seconds": 0.018,
+        "error": null
+      },
+      {
+        "test": "Engineered Features Exist",
+        "method": "test_engineered_features_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.018,
+        "error": null
+      },
+      {
+        "test": "No Duplicate Ids",
+        "method": "test_no_duplicate_ids",
+        "status": "PASSED",
+        "duration_seconds": 0.019,
+        "error": null
+      },
+      {
+        "test": "No Missing Values",
+        "method": "test_no_missing_values",
+        "status": "PASSED",
+        "duration_seconds": 0.018,
+        "error": null
+      },
+      {
+        "test": "Required Columns Exist",
+        "method": "test_required_columns_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.018,
+        "error": null
+      },
+      {
+        "test": "Summary Statistics Exist",
+        "method": "test_summary_statistics_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Target Distribution",
+        "method": "test_target_distribution",
+        "status": "PASSED",
+        "duration_seconds": 0.021,
+        "error": null
+      }
+    ],
+    "ML Modeling": [
+      {
+        "test": "Evaluation Report Exists",
+        "method": "test_evaluation_report_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Evaluation Report Structure",
+        "method": "test_evaluation_report_structure",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Feature Importance Exists",
+        "method": "test_feature_importance_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Model File Exists",
+        "method": "test_model_file_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Model Metrics Present",
+        "method": "test_model_metrics_present",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Model Prediction Works",
+        "method": "test_model_prediction_works",
+        "status": "PASSED",
+        "duration_seconds": 0.001,
+        "error": null
+      },
+      {
+        "test": "Risk Insights Exist",
+        "method": "test_risk_insights_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Roc Auc Above Threshold",
+        "method": "test_roc_auc_above_threshold",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Scaler File Exists",
+        "method": "test_scaler_file_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      }
+    ],
+    "Backend API": [
+      {
+        "test": "Api Has Required Routes",
+        "method": "test_api_has_required_routes",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Api Health Endpoint",
+        "method": "test_api_health_endpoint",
+        "status": "PASSED",
+        "duration_seconds": 0.008,
+        "error": null
+      },
+      {
+        "test": "Api Imports Work",
+        "method": "test_api_imports_work",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Api Module Exists",
+        "method": "test_api_module_exists",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Api Predict Endpoint",
+        "method": "test_api_predict_endpoint",
+        "status": "PASSED",
+        "duration_seconds": 0.007,
+        "error": null
+      },
+      {
+        "test": "Api Summary Endpoint",
+        "method": "test_api_summary_endpoint",
+        "status": "PASSED",
+        "duration_seconds": 0.006,
+        "error": null
+      },
+      {
+        "test": "Loan Application Validation",
+        "method": "test_loan_application_validation",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      }
+    ],
+    "Integration": [
+      {
+        "test": "All Outputs Exist",
+        "method": "test_all_outputs_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Data To Model Pipeline",
+        "method": "test_data_to_model_pipeline",
+        "status": "PASSED",
+        "duration_seconds": 0.023,
+        "error": null
+      },
+      {
+        "test": "Execution Logs Exist",
+        "method": "test_execution_logs_exist",
+        "status": "PASSED",
+        "duration_seconds": 0.0,
+        "error": null
+      },
+      {
+        "test": "Model To Api Integration",
+        "method": "test_model_to_api_integration",
+        "status": "PASSED",
+        "duration_seconds": 0.009,
+        "error": null
+      }
+    ]
+  },
+  "summary": {
+    "total_tests": 30,
+    "passed": 30,
+    "failed": 0,
+    "pass_rate": 100.0,
+    "duration_seconds": 0.19
+  },
+  "end_time": "2026-03-31T05:20:39.882488",
+  "status": "completed",
+  "decisions": [
+    "Tested all 5 agent components independently",
+    "Validated data integrity, model accuracy, API functionality, and end-to-end integration",
+    "Used FastAPI TestClient for API testing without requiring running server"
+  ],
+  "dependencies": [
+    "pytest",
+    "pandas",
+    "numpy",
+    "fastapi",
+    "joblib"
+  ]
+}
